@@ -1,0 +1,9 @@
+Warehouse_ID,Warehouse_Name,City,State,Region,Capacity_Units,Warehouse_Status
+WH01,Bengaluru Distribution Centre,Bengaluru,Karnataka,South,33179,Active
+WH02,Chennai Distribution Centre,Chennai,Tamil Nadu,South,19766,Active
+WH03,Hyderabad Distribution Centre,Hyderabad,Telangana,South,32478,Active
+WH04,Mumbai Distribution Centre,Mumbai,Maharashtra,West,29144,Active
+WH05,Pune Distribution Centre,Pune,Maharashtra,West,44184,Active
+WH06,Delhi Distribution Centre,Delhi,Delhi,North,45683,Active
+WH07,Kolkata Distribution Centre,Kolkata,West Bengal,East,42013,Active
+WH08,Ahmedabad Distribution Centre,Ahmedabad,Gujarat,West,18988,Active

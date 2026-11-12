@@ -1,0 +1,14 @@
+File,Rows,Columns
+Dim_Products.csv,300,9
+Dim_Suppliers.csv,30,7
+Dim_Warehouses.csv,8,7
+Dim_Customers.csv,1500,7
+Dim_Date.csv,730,11
+Fact_PurchaseOrders.csv,4200,7
+Fact_PurchaseOrderDetails.csv,10417,9
+Fact_SalesOrders.csv,11500,7
+Fact_SalesOrderDetails.csv,28621,7
+Fact_InventorySnapshots.csv,52800,8
+Fact_StockMovements.csv,32791,8
+Fact_Shipments.csv,10830,8
+Fact_Returns.csv,1138,6

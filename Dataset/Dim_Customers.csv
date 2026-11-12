@@ -1,0 +1,1501 @@
+Customer_ID,Customer_Name,Customer_Type,City,State,Region,Customer_Segment
+C00001,Customer 0001,Corporate,Kolkata,West Bengal,East,Standard
+C00002,Customer 0002,Wholesale,Mumbai,Maharashtra,West,Standard
+C00003,Customer 0003,Wholesale,Pune,Maharashtra,West,Gold
+C00004,Customer 0004,Retail,Kolkata,West Bengal,East,Silver
+C00005,Customer 0005,Retail,Mumbai,Maharashtra,West,Standard
+C00006,Customer 0006,Retail,Kolkata,West Bengal,East,Platinum
+C00007,Customer 0007,Wholesale,Mumbai,Maharashtra,West,Gold
+C00008,Customer 0008,Retail,Delhi,Delhi,North,Silver
+C00009,Customer 0009,Wholesale,Bengaluru,Karnataka,South,Standard
+C00010,Customer 0010,Corporate,Mumbai,Maharashtra,West,Gold
+C00011,Customer 0011,Wholesale,Bengaluru,Karnataka,South,Standard
+C00012,Customer 0012,Corporate,Hyderabad,Telangana,South,Gold
+C00013,Customer 0013,Retail,Delhi,Delhi,North,Standard
+C00014,Customer 0014,Retail,Ahmedabad,Gujarat,West,Standard
+C00015,Customer 0015,Retail,Chennai,Tamil Nadu,South,Platinum
+C00016,Customer 0016,Retail,Bengaluru,Karnataka,South,Standard
+C00017,Customer 0017,Wholesale,Pune,Maharashtra,West,Gold
+C00018,Customer 0018,Wholesale,Kolkata,West Bengal,East,Gold
+C00019,Customer 0019,Retail,Hyderabad,Telangana,South,Silver
+C00020,Customer 0020,Retail,Delhi,Delhi,North,Standard
+C00021,Customer 0021,Retail,Chennai,Tamil Nadu,South,Gold
+C00022,Customer 0022,Retail,Mumbai,Maharashtra,West,Standard
+C00023,Customer 0023,Wholesale,Kolkata,West Bengal,East,Standard
+C00024,Customer 0024,Wholesale,Chennai,Tamil Nadu,South,Gold
+C00025,Customer 0025,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00026,Customer 0026,Retail,Bengaluru,Karnataka,South,Silver
+C00027,Customer 0027,Retail,Delhi,Delhi,North,Silver
+C00028,Customer 0028,Retail,Ahmedabad,Gujarat,West,Silver
+C00029,Customer 0029,Wholesale,Hyderabad,Telangana,South,Silver
+C00030,Customer 0030,Retail,Pune,Maharashtra,West,Silver
+C00031,Customer 0031,Wholesale,Pune,Maharashtra,West,Standard
+C00032,Customer 0032,Retail,Delhi,Delhi,North,Standard
+C00033,Customer 0033,Retail,Mumbai,Maharashtra,West,Standard
+C00034,Customer 0034,Wholesale,Bengaluru,Karnataka,South,Standard
+C00035,Customer 0035,Retail,Kolkata,West Bengal,East,Gold
+C00036,Customer 0036,Retail,Kolkata,West Bengal,East,Silver
+C00037,Customer 0037,Corporate,Bengaluru,Karnataka,South,Silver
+C00038,Customer 0038,Retail,Pune,Maharashtra,West,Silver
+C00039,Customer 0039,Retail,Ahmedabad,Gujarat,West,Silver
+C00040,Customer 0040,Retail,Delhi,Delhi,North,Gold
+C00041,Customer 0041,Retail,Hyderabad,Telangana,South,Platinum
+C00042,Customer 0042,Retail,Mumbai,Maharashtra,West,Standard
+C00043,Customer 0043,Retail,Mumbai,Maharashtra,West,Standard
+C00044,Customer 0044,Retail,Chennai,Tamil Nadu,South,Gold
+C00045,Customer 0045,Retail,Pune,Maharashtra,West,Silver
+C00046,Customer 0046,Retail,Delhi,Delhi,North,Platinum
+C00047,Customer 0047,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00048,Customer 0048,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00049,Customer 0049,Retail,Hyderabad,Telangana,South,Gold
+C00050,Customer 0050,Retail,Kolkata,West Bengal,East,Gold
+C00051,Customer 0051,Corporate,Mumbai,Maharashtra,West,Standard
+C00052,Customer 0052,Retail,Kolkata,West Bengal,East,Standard
+C00053,Customer 0053,Wholesale,Delhi,Delhi,North,Platinum
+C00054,Customer 0054,Corporate,Hyderabad,Telangana,South,Silver
+C00055,Customer 0055,Corporate,Hyderabad,Telangana,South,Platinum
+C00056,Customer 0056,Retail,Delhi,Delhi,North,Silver
+C00057,Customer 0057,Retail,Delhi,Delhi,North,Standard
+C00058,Customer 0058,Corporate,Kolkata,West Bengal,East,Platinum
+C00059,Customer 0059,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00060,Customer 0060,Retail,Ahmedabad,Gujarat,West,Silver
+C00061,Customer 0061,Retail,Bengaluru,Karnataka,South,Silver
+C00062,Customer 0062,Retail,Pune,Maharashtra,West,Gold
+C00063,Customer 0063,Retail,Kolkata,West Bengal,East,Standard
+C00064,Customer 0064,Retail,Hyderabad,Telangana,South,Gold
+C00065,Customer 0065,Retail,Ahmedabad,Gujarat,West,Gold
+C00066,Customer 0066,Wholesale,Mumbai,Maharashtra,West,Standard
+C00067,Customer 0067,Retail,Ahmedabad,Gujarat,West,Silver
+C00068,Customer 0068,Retail,Hyderabad,Telangana,South,Standard
+C00069,Customer 0069,Wholesale,Bengaluru,Karnataka,South,Standard
+C00070,Customer 0070,Wholesale,Bengaluru,Karnataka,South,Standard
+C00071,Customer 0071,Retail,Pune,Maharashtra,West,Standard
+C00072,Customer 0072,Retail,Pune,Maharashtra,West,Gold
+C00073,Customer 0073,Retail,Delhi,Delhi,North,Standard
+C00074,Customer 0074,Corporate,Ahmedabad,Gujarat,West,Silver
+C00075,Customer 0075,Retail,Delhi,Delhi,North,Silver
+C00076,Customer 0076,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00077,Customer 0077,Retail,Ahmedabad,Gujarat,West,Standard
+C00078,Customer 0078,Retail,Ahmedabad,Gujarat,West,Standard
+C00079,Customer 0079,Retail,Delhi,Delhi,North,Standard
+C00080,Customer 0080,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00081,Customer 0081,Wholesale,Hyderabad,Telangana,South,Silver
+C00082,Customer 0082,Wholesale,Mumbai,Maharashtra,West,Gold
+C00083,Customer 0083,Retail,Chennai,Tamil Nadu,South,Silver
+C00084,Customer 0084,Wholesale,Delhi,Delhi,North,Standard
+C00085,Customer 0085,Retail,Chennai,Tamil Nadu,South,Silver
+C00086,Customer 0086,Retail,Bengaluru,Karnataka,South,Standard
+C00087,Customer 0087,Corporate,Chennai,Tamil Nadu,South,Standard
+C00088,Customer 0088,Corporate,Kolkata,West Bengal,East,Standard
+C00089,Customer 0089,Corporate,Hyderabad,Telangana,South,Standard
+C00090,Customer 0090,Wholesale,Ahmedabad,Gujarat,West,Platinum
+C00091,Customer 0091,Corporate,Chennai,Tamil Nadu,South,Silver
+C00092,Customer 0092,Retail,Ahmedabad,Gujarat,West,Gold
+C00093,Customer 0093,Wholesale,Bengaluru,Karnataka,South,Standard
+C00094,Customer 0094,Wholesale,Pune,Maharashtra,West,Standard
+C00095,Customer 0095,Retail,Delhi,Delhi,North,Silver
+C00096,Customer 0096,Wholesale,Delhi,Delhi,North,Silver
+C00097,Customer 0097,Retail,Delhi,Delhi,North,Platinum
+C00098,Customer 0098,Wholesale,Pune,Maharashtra,West,Standard
+C00099,Customer 0099,Retail,Ahmedabad,Gujarat,West,Silver
+C00100,Customer 0100,Corporate,Chennai,Tamil Nadu,South,Gold
+C00101,Customer 0101,Corporate,Bengaluru,Karnataka,South,Standard
+C00102,Customer 0102,Corporate,Chennai,Tamil Nadu,South,Standard
+C00103,Customer 0103,Corporate,Pune,Maharashtra,West,Standard
+C00104,Customer 0104,Wholesale,Pune,Maharashtra,West,Platinum
+C00105,Customer 0105,Retail,Pune,Maharashtra,West,Silver
+C00106,Customer 0106,Retail,Chennai,Tamil Nadu,South,Standard
+C00107,Customer 0107,Wholesale,Mumbai,Maharashtra,West,Standard
+C00108,Customer 0108,Retail,Mumbai,Maharashtra,West,Gold
+C00109,Customer 0109,Wholesale,Delhi,Delhi,North,Standard
+C00110,Customer 0110,Corporate,Pune,Maharashtra,West,Silver
+C00111,Customer 0111,Corporate,Chennai,Tamil Nadu,South,Silver
+C00112,Customer 0112,Retail,Bengaluru,Karnataka,South,Standard
+C00113,Customer 0113,Retail,Chennai,Tamil Nadu,South,Standard
+C00114,Customer 0114,Retail,Delhi,Delhi,North,Standard
+C00115,Customer 0115,Retail,Delhi,Delhi,North,Standard
+C00116,Customer 0116,Retail,Mumbai,Maharashtra,West,Silver
+C00117,Customer 0117,Wholesale,Hyderabad,Telangana,South,Standard
+C00118,Customer 0118,Retail,Hyderabad,Telangana,South,Standard
+C00119,Customer 0119,Retail,Hyderabad,Telangana,South,Gold
+C00120,Customer 0120,Retail,Mumbai,Maharashtra,West,Silver
+C00121,Customer 0121,Retail,Chennai,Tamil Nadu,South,Silver
+C00122,Customer 0122,Retail,Pune,Maharashtra,West,Standard
+C00123,Customer 0123,Wholesale,Delhi,Delhi,North,Platinum
+C00124,Customer 0124,Retail,Bengaluru,Karnataka,South,Silver
+C00125,Customer 0125,Retail,Chennai,Tamil Nadu,South,Gold
+C00126,Customer 0126,Wholesale,Kolkata,West Bengal,East,Gold
+C00127,Customer 0127,Retail,Ahmedabad,Gujarat,West,Standard
+C00128,Customer 0128,Retail,Ahmedabad,Gujarat,West,Standard
+C00129,Customer 0129,Corporate,Kolkata,West Bengal,East,Standard
+C00130,Customer 0130,Retail,Hyderabad,Telangana,South,Gold
+C00131,Customer 0131,Retail,Pune,Maharashtra,West,Platinum
+C00132,Customer 0132,Retail,Hyderabad,Telangana,South,Standard
+C00133,Customer 0133,Corporate,Chennai,Tamil Nadu,South,Standard
+C00134,Customer 0134,Retail,Bengaluru,Karnataka,South,Standard
+C00135,Customer 0135,Corporate,Pune,Maharashtra,West,Silver
+C00136,Customer 0136,Corporate,Mumbai,Maharashtra,West,Standard
+C00137,Customer 0137,Corporate,Ahmedabad,Gujarat,West,Standard
+C00138,Customer 0138,Retail,Pune,Maharashtra,West,Gold
+C00139,Customer 0139,Retail,Kolkata,West Bengal,East,Platinum
+C00140,Customer 0140,Retail,Mumbai,Maharashtra,West,Standard
+C00141,Customer 0141,Retail,Chennai,Tamil Nadu,South,Standard
+C00142,Customer 0142,Wholesale,Bengaluru,Karnataka,South,Standard
+C00143,Customer 0143,Retail,Pune,Maharashtra,West,Standard
+C00144,Customer 0144,Retail,Delhi,Delhi,North,Silver
+C00145,Customer 0145,Retail,Mumbai,Maharashtra,West,Gold
+C00146,Customer 0146,Wholesale,Mumbai,Maharashtra,West,Standard
+C00147,Customer 0147,Retail,Bengaluru,Karnataka,South,Standard
+C00148,Customer 0148,Retail,Ahmedabad,Gujarat,West,Standard
+C00149,Customer 0149,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00150,Customer 0150,Wholesale,Chennai,Tamil Nadu,South,Platinum
+C00151,Customer 0151,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00152,Customer 0152,Corporate,Pune,Maharashtra,West,Standard
+C00153,Customer 0153,Retail,Pune,Maharashtra,West,Silver
+C00154,Customer 0154,Retail,Chennai,Tamil Nadu,South,Silver
+C00155,Customer 0155,Corporate,Hyderabad,Telangana,South,Standard
+C00156,Customer 0156,Retail,Bengaluru,Karnataka,South,Standard
+C00157,Customer 0157,Retail,Kolkata,West Bengal,East,Standard
+C00158,Customer 0158,Retail,Chennai,Tamil Nadu,South,Standard
+C00159,Customer 0159,Retail,Ahmedabad,Gujarat,West,Standard
+C00160,Customer 0160,Retail,Mumbai,Maharashtra,West,Standard
+C00161,Customer 0161,Retail,Pune,Maharashtra,West,Gold
+C00162,Customer 0162,Corporate,Bengaluru,Karnataka,South,Gold
+C00163,Customer 0163,Retail,Bengaluru,Karnataka,South,Standard
+C00164,Customer 0164,Wholesale,Pune,Maharashtra,West,Gold
+C00165,Customer 0165,Corporate,Delhi,Delhi,North,Standard
+C00166,Customer 0166,Wholesale,Kolkata,West Bengal,East,Gold
+C00167,Customer 0167,Corporate,Kolkata,West Bengal,East,Standard
+C00168,Customer 0168,Corporate,Hyderabad,Telangana,South,Gold
+C00169,Customer 0169,Wholesale,Bengaluru,Karnataka,South,Standard
+C00170,Customer 0170,Wholesale,Bengaluru,Karnataka,South,Gold
+C00171,Customer 0171,Corporate,Kolkata,West Bengal,East,Standard
+C00172,Customer 0172,Retail,Pune,Maharashtra,West,Standard
+C00173,Customer 0173,Retail,Kolkata,West Bengal,East,Standard
+C00174,Customer 0174,Retail,Bengaluru,Karnataka,South,Standard
+C00175,Customer 0175,Retail,Bengaluru,Karnataka,South,Gold
+C00176,Customer 0176,Retail,Ahmedabad,Gujarat,West,Standard
+C00177,Customer 0177,Retail,Delhi,Delhi,North,Standard
+C00178,Customer 0178,Retail,Pune,Maharashtra,West,Standard
+C00179,Customer 0179,Wholesale,Kolkata,West Bengal,East,Standard
+C00180,Customer 0180,Wholesale,Hyderabad,Telangana,South,Standard
+C00181,Customer 0181,Wholesale,Delhi,Delhi,North,Platinum
+C00182,Customer 0182,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00183,Customer 0183,Retail,Ahmedabad,Gujarat,West,Gold
+C00184,Customer 0184,Wholesale,Pune,Maharashtra,West,Standard
+C00185,Customer 0185,Retail,Chennai,Tamil Nadu,South,Silver
+C00186,Customer 0186,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00187,Customer 0187,Wholesale,Hyderabad,Telangana,South,Standard
+C00188,Customer 0188,Retail,Pune,Maharashtra,West,Standard
+C00189,Customer 0189,Retail,Bengaluru,Karnataka,South,Platinum
+C00190,Customer 0190,Corporate,Delhi,Delhi,North,Standard
+C00191,Customer 0191,Wholesale,Hyderabad,Telangana,South,Silver
+C00192,Customer 0192,Retail,Hyderabad,Telangana,South,Standard
+C00193,Customer 0193,Corporate,Delhi,Delhi,North,Silver
+C00194,Customer 0194,Corporate,Bengaluru,Karnataka,South,Silver
+C00195,Customer 0195,Retail,Kolkata,West Bengal,East,Standard
+C00196,Customer 0196,Corporate,Ahmedabad,Gujarat,West,Platinum
+C00197,Customer 0197,Retail,Hyderabad,Telangana,South,Silver
+C00198,Customer 0198,Retail,Hyderabad,Telangana,South,Standard
+C00199,Customer 0199,Retail,Pune,Maharashtra,West,Silver
+C00200,Customer 0200,Retail,Ahmedabad,Gujarat,West,Standard
+C00201,Customer 0201,Retail,Bengaluru,Karnataka,South,Silver
+C00202,Customer 0202,Retail,Delhi,Delhi,North,Platinum
+C00203,Customer 0203,Corporate,Ahmedabad,Gujarat,West,Standard
+C00204,Customer 0204,Retail,Delhi,Delhi,North,Standard
+C00205,Customer 0205,Retail,Kolkata,West Bengal,East,Standard
+C00206,Customer 0206,Retail,Pune,Maharashtra,West,Standard
+C00207,Customer 0207,Retail,Delhi,Delhi,North,Standard
+C00208,Customer 0208,Wholesale,Mumbai,Maharashtra,West,Standard
+C00209,Customer 0209,Retail,Chennai,Tamil Nadu,South,Gold
+C00210,Customer 0210,Retail,Hyderabad,Telangana,South,Silver
+C00211,Customer 0211,Retail,Hyderabad,Telangana,South,Gold
+C00212,Customer 0212,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00213,Customer 0213,Wholesale,Delhi,Delhi,North,Platinum
+C00214,Customer 0214,Retail,Mumbai,Maharashtra,West,Standard
+C00215,Customer 0215,Retail,Mumbai,Maharashtra,West,Gold
+C00216,Customer 0216,Retail,Pune,Maharashtra,West,Silver
+C00217,Customer 0217,Wholesale,Kolkata,West Bengal,East,Silver
+C00218,Customer 0218,Wholesale,Kolkata,West Bengal,East,Gold
+C00219,Customer 0219,Retail,Pune,Maharashtra,West,Silver
+C00220,Customer 0220,Retail,Kolkata,West Bengal,East,Gold
+C00221,Customer 0221,Retail,Kolkata,West Bengal,East,Standard
+C00222,Customer 0222,Retail,Delhi,Delhi,North,Silver
+C00223,Customer 0223,Retail,Hyderabad,Telangana,South,Gold
+C00224,Customer 0224,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00225,Customer 0225,Corporate,Hyderabad,Telangana,South,Silver
+C00226,Customer 0226,Wholesale,Hyderabad,Telangana,South,Standard
+C00227,Customer 0227,Retail,Pune,Maharashtra,West,Silver
+C00228,Customer 0228,Retail,Hyderabad,Telangana,South,Standard
+C00229,Customer 0229,Corporate,Ahmedabad,Gujarat,West,Gold
+C00230,Customer 0230,Retail,Delhi,Delhi,North,Silver
+C00231,Customer 0231,Retail,Kolkata,West Bengal,East,Silver
+C00232,Customer 0232,Retail,Mumbai,Maharashtra,West,Silver
+C00233,Customer 0233,Corporate,Delhi,Delhi,North,Standard
+C00234,Customer 0234,Retail,Ahmedabad,Gujarat,West,Standard
+C00235,Customer 0235,Retail,Kolkata,West Bengal,East,Standard
+C00236,Customer 0236,Wholesale,Hyderabad,Telangana,South,Silver
+C00237,Customer 0237,Retail,Pune,Maharashtra,West,Standard
+C00238,Customer 0238,Retail,Ahmedabad,Gujarat,West,Standard
+C00239,Customer 0239,Corporate,Hyderabad,Telangana,South,Standard
+C00240,Customer 0240,Retail,Hyderabad,Telangana,South,Silver
+C00241,Customer 0241,Wholesale,Mumbai,Maharashtra,West,Standard
+C00242,Customer 0242,Wholesale,Mumbai,Maharashtra,West,Standard
+C00243,Customer 0243,Wholesale,Delhi,Delhi,North,Gold
+C00244,Customer 0244,Retail,Mumbai,Maharashtra,West,Silver
+C00245,Customer 0245,Retail,Delhi,Delhi,North,Standard
+C00246,Customer 0246,Wholesale,Bengaluru,Karnataka,South,Standard
+C00247,Customer 0247,Retail,Bengaluru,Karnataka,South,Gold
+C00248,Customer 0248,Wholesale,Delhi,Delhi,North,Standard
+C00249,Customer 0249,Retail,Hyderabad,Telangana,South,Gold
+C00250,Customer 0250,Retail,Bengaluru,Karnataka,South,Silver
+C00251,Customer 0251,Wholesale,Kolkata,West Bengal,East,Silver
+C00252,Customer 0252,Retail,Mumbai,Maharashtra,West,Platinum
+C00253,Customer 0253,Wholesale,Mumbai,Maharashtra,West,Standard
+C00254,Customer 0254,Retail,Chennai,Tamil Nadu,South,Gold
+C00255,Customer 0255,Wholesale,Bengaluru,Karnataka,South,Standard
+C00256,Customer 0256,Retail,Delhi,Delhi,North,Standard
+C00257,Customer 0257,Retail,Hyderabad,Telangana,South,Standard
+C00258,Customer 0258,Retail,Pune,Maharashtra,West,Standard
+C00259,Customer 0259,Retail,Kolkata,West Bengal,East,Gold
+C00260,Customer 0260,Wholesale,Hyderabad,Telangana,South,Standard
+C00261,Customer 0261,Wholesale,Mumbai,Maharashtra,West,Standard
+C00262,Customer 0262,Retail,Delhi,Delhi,North,Standard
+C00263,Customer 0263,Wholesale,Bengaluru,Karnataka,South,Platinum
+C00264,Customer 0264,Retail,Bengaluru,Karnataka,South,Gold
+C00265,Customer 0265,Wholesale,Bengaluru,Karnataka,South,Gold
+C00266,Customer 0266,Retail,Bengaluru,Karnataka,South,Standard
+C00267,Customer 0267,Corporate,Hyderabad,Telangana,South,Standard
+C00268,Customer 0268,Retail,Pune,Maharashtra,West,Standard
+C00269,Customer 0269,Wholesale,Mumbai,Maharashtra,West,Gold
+C00270,Customer 0270,Wholesale,Pune,Maharashtra,West,Gold
+C00271,Customer 0271,Retail,Mumbai,Maharashtra,West,Silver
+C00272,Customer 0272,Retail,Kolkata,West Bengal,East,Standard
+C00273,Customer 0273,Wholesale,Pune,Maharashtra,West,Platinum
+C00274,Customer 0274,Retail,Ahmedabad,Gujarat,West,Silver
+C00275,Customer 0275,Retail,Ahmedabad,Gujarat,West,Standard
+C00276,Customer 0276,Retail,Mumbai,Maharashtra,West,Standard
+C00277,Customer 0277,Retail,Kolkata,West Bengal,East,Standard
+C00278,Customer 0278,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00279,Customer 0279,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00280,Customer 0280,Wholesale,Ahmedabad,Gujarat,West,Silver
+C00281,Customer 0281,Wholesale,Hyderabad,Telangana,South,Silver
+C00282,Customer 0282,Wholesale,Kolkata,West Bengal,East,Standard
+C00283,Customer 0283,Corporate,Ahmedabad,Gujarat,West,Silver
+C00284,Customer 0284,Wholesale,Delhi,Delhi,North,Standard
+C00285,Customer 0285,Corporate,Delhi,Delhi,North,Standard
+C00286,Customer 0286,Retail,Kolkata,West Bengal,East,Silver
+C00287,Customer 0287,Wholesale,Hyderabad,Telangana,South,Standard
+C00288,Customer 0288,Retail,Mumbai,Maharashtra,West,Silver
+C00289,Customer 0289,Wholesale,Kolkata,West Bengal,East,Silver
+C00290,Customer 0290,Wholesale,Pune,Maharashtra,West,Gold
+C00291,Customer 0291,Retail,Kolkata,West Bengal,East,Silver
+C00292,Customer 0292,Retail,Pune,Maharashtra,West,Standard
+C00293,Customer 0293,Corporate,Kolkata,West Bengal,East,Silver
+C00294,Customer 0294,Retail,Pune,Maharashtra,West,Silver
+C00295,Customer 0295,Wholesale,Chennai,Tamil Nadu,South,Gold
+C00296,Customer 0296,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00297,Customer 0297,Retail,Hyderabad,Telangana,South,Gold
+C00298,Customer 0298,Wholesale,Hyderabad,Telangana,South,Silver
+C00299,Customer 0299,Retail,Hyderabad,Telangana,South,Standard
+C00300,Customer 0300,Retail,Hyderabad,Telangana,South,Standard
+C00301,Customer 0301,Retail,Ahmedabad,Gujarat,West,Standard
+C00302,Customer 0302,Retail,Ahmedabad,Gujarat,West,Standard
+C00303,Customer 0303,Retail,Bengaluru,Karnataka,South,Gold
+C00304,Customer 0304,Wholesale,Kolkata,West Bengal,East,Standard
+C00305,Customer 0305,Corporate,Ahmedabad,Gujarat,West,Standard
+C00306,Customer 0306,Retail,Pune,Maharashtra,West,Gold
+C00307,Customer 0307,Retail,Ahmedabad,Gujarat,West,Silver
+C00308,Customer 0308,Retail,Ahmedabad,Gujarat,West,Gold
+C00309,Customer 0309,Retail,Delhi,Delhi,North,Silver
+C00310,Customer 0310,Corporate,Mumbai,Maharashtra,West,Gold
+C00311,Customer 0311,Retail,Delhi,Delhi,North,Platinum
+C00312,Customer 0312,Corporate,Hyderabad,Telangana,South,Silver
+C00313,Customer 0313,Retail,Kolkata,West Bengal,East,Standard
+C00314,Customer 0314,Retail,Delhi,Delhi,North,Standard
+C00315,Customer 0315,Wholesale,Delhi,Delhi,North,Standard
+C00316,Customer 0316,Retail,Chennai,Tamil Nadu,South,Silver
+C00317,Customer 0317,Retail,Ahmedabad,Gujarat,West,Silver
+C00318,Customer 0318,Retail,Chennai,Tamil Nadu,South,Silver
+C00319,Customer 0319,Retail,Hyderabad,Telangana,South,Gold
+C00320,Customer 0320,Corporate,Ahmedabad,Gujarat,West,Gold
+C00321,Customer 0321,Wholesale,Hyderabad,Telangana,South,Silver
+C00322,Customer 0322,Wholesale,Delhi,Delhi,North,Standard
+C00323,Customer 0323,Wholesale,Bengaluru,Karnataka,South,Gold
+C00324,Customer 0324,Retail,Ahmedabad,Gujarat,West,Standard
+C00325,Customer 0325,Retail,Kolkata,West Bengal,East,Standard
+C00326,Customer 0326,Retail,Pune,Maharashtra,West,Standard
+C00327,Customer 0327,Retail,Chennai,Tamil Nadu,South,Platinum
+C00328,Customer 0328,Retail,Pune,Maharashtra,West,Standard
+C00329,Customer 0329,Retail,Ahmedabad,Gujarat,West,Silver
+C00330,Customer 0330,Wholesale,Hyderabad,Telangana,South,Platinum
+C00331,Customer 0331,Wholesale,Hyderabad,Telangana,South,Standard
+C00332,Customer 0332,Retail,Hyderabad,Telangana,South,Silver
+C00333,Customer 0333,Wholesale,Kolkata,West Bengal,East,Silver
+C00334,Customer 0334,Wholesale,Bengaluru,Karnataka,South,Silver
+C00335,Customer 0335,Retail,Delhi,Delhi,North,Standard
+C00336,Customer 0336,Retail,Pune,Maharashtra,West,Silver
+C00337,Customer 0337,Retail,Bengaluru,Karnataka,South,Silver
+C00338,Customer 0338,Wholesale,Ahmedabad,Gujarat,West,Gold
+C00339,Customer 0339,Wholesale,Hyderabad,Telangana,South,Silver
+C00340,Customer 0340,Corporate,Pune,Maharashtra,West,Standard
+C00341,Customer 0341,Retail,Chennai,Tamil Nadu,South,Gold
+C00342,Customer 0342,Retail,Ahmedabad,Gujarat,West,Standard
+C00343,Customer 0343,Retail,Hyderabad,Telangana,South,Standard
+C00344,Customer 0344,Retail,Bengaluru,Karnataka,South,Silver
+C00345,Customer 0345,Wholesale,Bengaluru,Karnataka,South,Gold
+C00346,Customer 0346,Wholesale,Mumbai,Maharashtra,West,Standard
+C00347,Customer 0347,Corporate,Kolkata,West Bengal,East,Standard
+C00348,Customer 0348,Retail,Hyderabad,Telangana,South,Platinum
+C00349,Customer 0349,Retail,Pune,Maharashtra,West,Silver
+C00350,Customer 0350,Retail,Ahmedabad,Gujarat,West,Gold
+C00351,Customer 0351,Retail,Mumbai,Maharashtra,West,Silver
+C00352,Customer 0352,Retail,Bengaluru,Karnataka,South,Silver
+C00353,Customer 0353,Corporate,Bengaluru,Karnataka,South,Gold
+C00354,Customer 0354,Retail,Hyderabad,Telangana,South,Gold
+C00355,Customer 0355,Retail,Bengaluru,Karnataka,South,Standard
+C00356,Customer 0356,Corporate,Hyderabad,Telangana,South,Gold
+C00357,Customer 0357,Corporate,Ahmedabad,Gujarat,West,Platinum
+C00358,Customer 0358,Retail,Ahmedabad,Gujarat,West,Platinum
+C00359,Customer 0359,Retail,Ahmedabad,Gujarat,West,Silver
+C00360,Customer 0360,Retail,Pune,Maharashtra,West,Standard
+C00361,Customer 0361,Retail,Delhi,Delhi,North,Silver
+C00362,Customer 0362,Corporate,Chennai,Tamil Nadu,South,Silver
+C00363,Customer 0363,Retail,Delhi,Delhi,North,Silver
+C00364,Customer 0364,Retail,Pune,Maharashtra,West,Gold
+C00365,Customer 0365,Wholesale,Mumbai,Maharashtra,West,Gold
+C00366,Customer 0366,Wholesale,Chennai,Tamil Nadu,South,Gold
+C00367,Customer 0367,Corporate,Hyderabad,Telangana,South,Silver
+C00368,Customer 0368,Wholesale,Hyderabad,Telangana,South,Silver
+C00369,Customer 0369,Corporate,Chennai,Tamil Nadu,South,Standard
+C00370,Customer 0370,Wholesale,Kolkata,West Bengal,East,Gold
+C00371,Customer 0371,Corporate,Bengaluru,Karnataka,South,Standard
+C00372,Customer 0372,Wholesale,Mumbai,Maharashtra,West,Standard
+C00373,Customer 0373,Wholesale,Kolkata,West Bengal,East,Standard
+C00374,Customer 0374,Retail,Chennai,Tamil Nadu,South,Standard
+C00375,Customer 0375,Wholesale,Chennai,Tamil Nadu,South,Gold
+C00376,Customer 0376,Retail,Mumbai,Maharashtra,West,Silver
+C00377,Customer 0377,Wholesale,Mumbai,Maharashtra,West,Standard
+C00378,Customer 0378,Retail,Mumbai,Maharashtra,West,Silver
+C00379,Customer 0379,Retail,Hyderabad,Telangana,South,Silver
+C00380,Customer 0380,Wholesale,Pune,Maharashtra,West,Gold
+C00381,Customer 0381,Wholesale,Bengaluru,Karnataka,South,Gold
+C00382,Customer 0382,Retail,Hyderabad,Telangana,South,Silver
+C00383,Customer 0383,Wholesale,Delhi,Delhi,North,Standard
+C00384,Customer 0384,Wholesale,Hyderabad,Telangana,South,Standard
+C00385,Customer 0385,Corporate,Mumbai,Maharashtra,West,Standard
+C00386,Customer 0386,Corporate,Pune,Maharashtra,West,Platinum
+C00387,Customer 0387,Retail,Mumbai,Maharashtra,West,Gold
+C00388,Customer 0388,Retail,Kolkata,West Bengal,East,Standard
+C00389,Customer 0389,Wholesale,Ahmedabad,Gujarat,West,Silver
+C00390,Customer 0390,Retail,Kolkata,West Bengal,East,Gold
+C00391,Customer 0391,Retail,Pune,Maharashtra,West,Gold
+C00392,Customer 0392,Retail,Delhi,Delhi,North,Standard
+C00393,Customer 0393,Corporate,Pune,Maharashtra,West,Standard
+C00394,Customer 0394,Retail,Delhi,Delhi,North,Standard
+C00395,Customer 0395,Retail,Bengaluru,Karnataka,South,Silver
+C00396,Customer 0396,Corporate,Kolkata,West Bengal,East,Standard
+C00397,Customer 0397,Retail,Mumbai,Maharashtra,West,Gold
+C00398,Customer 0398,Retail,Pune,Maharashtra,West,Standard
+C00399,Customer 0399,Wholesale,Mumbai,Maharashtra,West,Gold
+C00400,Customer 0400,Retail,Chennai,Tamil Nadu,South,Standard
+C00401,Customer 0401,Retail,Pune,Maharashtra,West,Standard
+C00402,Customer 0402,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00403,Customer 0403,Retail,Pune,Maharashtra,West,Standard
+C00404,Customer 0404,Retail,Hyderabad,Telangana,South,Silver
+C00405,Customer 0405,Retail,Bengaluru,Karnataka,South,Gold
+C00406,Customer 0406,Retail,Pune,Maharashtra,West,Gold
+C00407,Customer 0407,Wholesale,Kolkata,West Bengal,East,Standard
+C00408,Customer 0408,Retail,Hyderabad,Telangana,South,Silver
+C00409,Customer 0409,Retail,Ahmedabad,Gujarat,West,Silver
+C00410,Customer 0410,Wholesale,Bengaluru,Karnataka,South,Standard
+C00411,Customer 0411,Wholesale,Pune,Maharashtra,West,Gold
+C00412,Customer 0412,Wholesale,Ahmedabad,Gujarat,West,Silver
+C00413,Customer 0413,Wholesale,Pune,Maharashtra,West,Gold
+C00414,Customer 0414,Retail,Pune,Maharashtra,West,Standard
+C00415,Customer 0415,Corporate,Bengaluru,Karnataka,South,Standard
+C00416,Customer 0416,Wholesale,Bengaluru,Karnataka,South,Gold
+C00417,Customer 0417,Retail,Kolkata,West Bengal,East,Gold
+C00418,Customer 0418,Corporate,Ahmedabad,Gujarat,West,Standard
+C00419,Customer 0419,Retail,Chennai,Tamil Nadu,South,Silver
+C00420,Customer 0420,Retail,Kolkata,West Bengal,East,Standard
+C00421,Customer 0421,Retail,Pune,Maharashtra,West,Standard
+C00422,Customer 0422,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00423,Customer 0423,Wholesale,Hyderabad,Telangana,South,Silver
+C00424,Customer 0424,Retail,Chennai,Tamil Nadu,South,Platinum
+C00425,Customer 0425,Wholesale,Mumbai,Maharashtra,West,Standard
+C00426,Customer 0426,Wholesale,Mumbai,Maharashtra,West,Platinum
+C00427,Customer 0427,Wholesale,Kolkata,West Bengal,East,Silver
+C00428,Customer 0428,Retail,Kolkata,West Bengal,East,Silver
+C00429,Customer 0429,Corporate,Kolkata,West Bengal,East,Silver
+C00430,Customer 0430,Retail,Kolkata,West Bengal,East,Silver
+C00431,Customer 0431,Retail,Pune,Maharashtra,West,Standard
+C00432,Customer 0432,Wholesale,Bengaluru,Karnataka,South,Standard
+C00433,Customer 0433,Retail,Ahmedabad,Gujarat,West,Gold
+C00434,Customer 0434,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00435,Customer 0435,Wholesale,Mumbai,Maharashtra,West,Standard
+C00436,Customer 0436,Wholesale,Bengaluru,Karnataka,South,Standard
+C00437,Customer 0437,Retail,Bengaluru,Karnataka,South,Silver
+C00438,Customer 0438,Retail,Ahmedabad,Gujarat,West,Platinum
+C00439,Customer 0439,Wholesale,Ahmedabad,Gujarat,West,Silver
+C00440,Customer 0440,Retail,Ahmedabad,Gujarat,West,Gold
+C00441,Customer 0441,Retail,Pune,Maharashtra,West,Silver
+C00442,Customer 0442,Retail,Delhi,Delhi,North,Gold
+C00443,Customer 0443,Wholesale,Kolkata,West Bengal,East,Silver
+C00444,Customer 0444,Retail,Delhi,Delhi,North,Standard
+C00445,Customer 0445,Wholesale,Pune,Maharashtra,West,Standard
+C00446,Customer 0446,Retail,Bengaluru,Karnataka,South,Standard
+C00447,Customer 0447,Wholesale,Kolkata,West Bengal,East,Standard
+C00448,Customer 0448,Retail,Chennai,Tamil Nadu,South,Gold
+C00449,Customer 0449,Retail,Delhi,Delhi,North,Standard
+C00450,Customer 0450,Wholesale,Mumbai,Maharashtra,West,Standard
+C00451,Customer 0451,Corporate,Pune,Maharashtra,West,Silver
+C00452,Customer 0452,Retail,Kolkata,West Bengal,East,Gold
+C00453,Customer 0453,Retail,Bengaluru,Karnataka,South,Silver
+C00454,Customer 0454,Retail,Mumbai,Maharashtra,West,Standard
+C00455,Customer 0455,Retail,Mumbai,Maharashtra,West,Standard
+C00456,Customer 0456,Wholesale,Mumbai,Maharashtra,West,Platinum
+C00457,Customer 0457,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00458,Customer 0458,Retail,Bengaluru,Karnataka,South,Standard
+C00459,Customer 0459,Retail,Ahmedabad,Gujarat,West,Standard
+C00460,Customer 0460,Retail,Bengaluru,Karnataka,South,Silver
+C00461,Customer 0461,Retail,Pune,Maharashtra,West,Standard
+C00462,Customer 0462,Retail,Bengaluru,Karnataka,South,Standard
+C00463,Customer 0463,Retail,Mumbai,Maharashtra,West,Standard
+C00464,Customer 0464,Corporate,Pune,Maharashtra,West,Standard
+C00465,Customer 0465,Retail,Delhi,Delhi,North,Platinum
+C00466,Customer 0466,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00467,Customer 0467,Retail,Pune,Maharashtra,West,Platinum
+C00468,Customer 0468,Retail,Ahmedabad,Gujarat,West,Silver
+C00469,Customer 0469,Retail,Pune,Maharashtra,West,Platinum
+C00470,Customer 0470,Retail,Mumbai,Maharashtra,West,Platinum
+C00471,Customer 0471,Wholesale,Mumbai,Maharashtra,West,Platinum
+C00472,Customer 0472,Retail,Mumbai,Maharashtra,West,Gold
+C00473,Customer 0473,Wholesale,Mumbai,Maharashtra,West,Standard
+C00474,Customer 0474,Retail,Pune,Maharashtra,West,Silver
+C00475,Customer 0475,Retail,Bengaluru,Karnataka,South,Standard
+C00476,Customer 0476,Corporate,Mumbai,Maharashtra,West,Standard
+C00477,Customer 0477,Corporate,Hyderabad,Telangana,South,Standard
+C00478,Customer 0478,Retail,Delhi,Delhi,North,Silver
+C00479,Customer 0479,Wholesale,Pune,Maharashtra,West,Silver
+C00480,Customer 0480,Wholesale,Bengaluru,Karnataka,South,Standard
+C00481,Customer 0481,Wholesale,Hyderabad,Telangana,South,Standard
+C00482,Customer 0482,Wholesale,Delhi,Delhi,North,Gold
+C00483,Customer 0483,Retail,Ahmedabad,Gujarat,West,Standard
+C00484,Customer 0484,Retail,Delhi,Delhi,North,Standard
+C00485,Customer 0485,Corporate,Delhi,Delhi,North,Standard
+C00486,Customer 0486,Wholesale,Bengaluru,Karnataka,South,Standard
+C00487,Customer 0487,Retail,Delhi,Delhi,North,Standard
+C00488,Customer 0488,Wholesale,Hyderabad,Telangana,South,Platinum
+C00489,Customer 0489,Retail,Delhi,Delhi,North,Gold
+C00490,Customer 0490,Retail,Ahmedabad,Gujarat,West,Gold
+C00491,Customer 0491,Retail,Kolkata,West Bengal,East,Standard
+C00492,Customer 0492,Retail,Pune,Maharashtra,West,Standard
+C00493,Customer 0493,Wholesale,Delhi,Delhi,North,Platinum
+C00494,Customer 0494,Retail,Ahmedabad,Gujarat,West,Silver
+C00495,Customer 0495,Retail,Bengaluru,Karnataka,South,Standard
+C00496,Customer 0496,Retail,Hyderabad,Telangana,South,Silver
+C00497,Customer 0497,Retail,Ahmedabad,Gujarat,West,Silver
+C00498,Customer 0498,Retail,Chennai,Tamil Nadu,South,Platinum
+C00499,Customer 0499,Wholesale,Ahmedabad,Gujarat,West,Silver
+C00500,Customer 0500,Wholesale,Pune,Maharashtra,West,Silver
+C00501,Customer 0501,Wholesale,Pune,Maharashtra,West,Standard
+C00502,Customer 0502,Retail,Ahmedabad,Gujarat,West,Silver
+C00503,Customer 0503,Retail,Chennai,Tamil Nadu,South,Standard
+C00504,Customer 0504,Retail,Bengaluru,Karnataka,South,Standard
+C00505,Customer 0505,Wholesale,Chennai,Tamil Nadu,South,Gold
+C00506,Customer 0506,Retail,Pune,Maharashtra,West,Silver
+C00507,Customer 0507,Retail,Kolkata,West Bengal,East,Silver
+C00508,Customer 0508,Retail,Pune,Maharashtra,West,Platinum
+C00509,Customer 0509,Wholesale,Kolkata,West Bengal,East,Silver
+C00510,Customer 0510,Retail,Bengaluru,Karnataka,South,Gold
+C00511,Customer 0511,Wholesale,Bengaluru,Karnataka,South,Silver
+C00512,Customer 0512,Retail,Bengaluru,Karnataka,South,Standard
+C00513,Customer 0513,Retail,Kolkata,West Bengal,East,Gold
+C00514,Customer 0514,Wholesale,Kolkata,West Bengal,East,Silver
+C00515,Customer 0515,Wholesale,Pune,Maharashtra,West,Platinum
+C00516,Customer 0516,Retail,Hyderabad,Telangana,South,Standard
+C00517,Customer 0517,Retail,Mumbai,Maharashtra,West,Gold
+C00518,Customer 0518,Retail,Chennai,Tamil Nadu,South,Silver
+C00519,Customer 0519,Retail,Chennai,Tamil Nadu,South,Standard
+C00520,Customer 0520,Corporate,Hyderabad,Telangana,South,Silver
+C00521,Customer 0521,Wholesale,Delhi,Delhi,North,Standard
+C00522,Customer 0522,Retail,Mumbai,Maharashtra,West,Standard
+C00523,Customer 0523,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00524,Customer 0524,Retail,Ahmedabad,Gujarat,West,Standard
+C00525,Customer 0525,Retail,Pune,Maharashtra,West,Gold
+C00526,Customer 0526,Wholesale,Delhi,Delhi,North,Standard
+C00527,Customer 0527,Corporate,Mumbai,Maharashtra,West,Silver
+C00528,Customer 0528,Wholesale,Delhi,Delhi,North,Gold
+C00529,Customer 0529,Corporate,Kolkata,West Bengal,East,Standard
+C00530,Customer 0530,Wholesale,Chennai,Tamil Nadu,South,Gold
+C00531,Customer 0531,Retail,Pune,Maharashtra,West,Silver
+C00532,Customer 0532,Retail,Pune,Maharashtra,West,Standard
+C00533,Customer 0533,Wholesale,Pune,Maharashtra,West,Standard
+C00534,Customer 0534,Retail,Hyderabad,Telangana,South,Gold
+C00535,Customer 0535,Retail,Hyderabad,Telangana,South,Standard
+C00536,Customer 0536,Retail,Hyderabad,Telangana,South,Gold
+C00537,Customer 0537,Retail,Bengaluru,Karnataka,South,Platinum
+C00538,Customer 0538,Wholesale,Mumbai,Maharashtra,West,Silver
+C00539,Customer 0539,Corporate,Bengaluru,Karnataka,South,Standard
+C00540,Customer 0540,Wholesale,Kolkata,West Bengal,East,Silver
+C00541,Customer 0541,Retail,Kolkata,West Bengal,East,Standard
+C00542,Customer 0542,Wholesale,Hyderabad,Telangana,South,Gold
+C00543,Customer 0543,Retail,Kolkata,West Bengal,East,Standard
+C00544,Customer 0544,Retail,Kolkata,West Bengal,East,Silver
+C00545,Customer 0545,Corporate,Kolkata,West Bengal,East,Gold
+C00546,Customer 0546,Corporate,Ahmedabad,Gujarat,West,Platinum
+C00547,Customer 0547,Retail,Chennai,Tamil Nadu,South,Standard
+C00548,Customer 0548,Retail,Mumbai,Maharashtra,West,Standard
+C00549,Customer 0549,Corporate,Chennai,Tamil Nadu,South,Standard
+C00550,Customer 0550,Corporate,Chennai,Tamil Nadu,South,Gold
+C00551,Customer 0551,Wholesale,Hyderabad,Telangana,South,Standard
+C00552,Customer 0552,Wholesale,Delhi,Delhi,North,Standard
+C00553,Customer 0553,Retail,Bengaluru,Karnataka,South,Standard
+C00554,Customer 0554,Wholesale,Ahmedabad,Gujarat,West,Silver
+C00555,Customer 0555,Wholesale,Bengaluru,Karnataka,South,Standard
+C00556,Customer 0556,Wholesale,Mumbai,Maharashtra,West,Standard
+C00557,Customer 0557,Retail,Ahmedabad,Gujarat,West,Standard
+C00558,Customer 0558,Retail,Hyderabad,Telangana,South,Silver
+C00559,Customer 0559,Retail,Bengaluru,Karnataka,South,Silver
+C00560,Customer 0560,Retail,Chennai,Tamil Nadu,South,Silver
+C00561,Customer 0561,Retail,Delhi,Delhi,North,Gold
+C00562,Customer 0562,Retail,Ahmedabad,Gujarat,West,Standard
+C00563,Customer 0563,Wholesale,Hyderabad,Telangana,South,Gold
+C00564,Customer 0564,Retail,Delhi,Delhi,North,Gold
+C00565,Customer 0565,Retail,Bengaluru,Karnataka,South,Standard
+C00566,Customer 0566,Corporate,Mumbai,Maharashtra,West,Standard
+C00567,Customer 0567,Wholesale,Hyderabad,Telangana,South,Gold
+C00568,Customer 0568,Wholesale,Kolkata,West Bengal,East,Gold
+C00569,Customer 0569,Retail,Hyderabad,Telangana,South,Silver
+C00570,Customer 0570,Retail,Chennai,Tamil Nadu,South,Standard
+C00571,Customer 0571,Retail,Mumbai,Maharashtra,West,Standard
+C00572,Customer 0572,Retail,Chennai,Tamil Nadu,South,Gold
+C00573,Customer 0573,Corporate,Mumbai,Maharashtra,West,Platinum
+C00574,Customer 0574,Retail,Hyderabad,Telangana,South,Silver
+C00575,Customer 0575,Wholesale,Bengaluru,Karnataka,South,Standard
+C00576,Customer 0576,Retail,Pune,Maharashtra,West,Standard
+C00577,Customer 0577,Corporate,Kolkata,West Bengal,East,Silver
+C00578,Customer 0578,Wholesale,Pune,Maharashtra,West,Platinum
+C00579,Customer 0579,Retail,Mumbai,Maharashtra,West,Gold
+C00580,Customer 0580,Retail,Delhi,Delhi,North,Standard
+C00581,Customer 0581,Corporate,Bengaluru,Karnataka,South,Standard
+C00582,Customer 0582,Retail,Pune,Maharashtra,West,Standard
+C00583,Customer 0583,Retail,Bengaluru,Karnataka,South,Silver
+C00584,Customer 0584,Corporate,Bengaluru,Karnataka,South,Standard
+C00585,Customer 0585,Retail,Pune,Maharashtra,West,Standard
+C00586,Customer 0586,Wholesale,Hyderabad,Telangana,South,Silver
+C00587,Customer 0587,Retail,Chennai,Tamil Nadu,South,Silver
+C00588,Customer 0588,Retail,Delhi,Delhi,North,Standard
+C00589,Customer 0589,Wholesale,Pune,Maharashtra,West,Gold
+C00590,Customer 0590,Corporate,Ahmedabad,Gujarat,West,Silver
+C00591,Customer 0591,Retail,Pune,Maharashtra,West,Standard
+C00592,Customer 0592,Retail,Ahmedabad,Gujarat,West,Standard
+C00593,Customer 0593,Retail,Ahmedabad,Gujarat,West,Silver
+C00594,Customer 0594,Wholesale,Bengaluru,Karnataka,South,Silver
+C00595,Customer 0595,Wholesale,Delhi,Delhi,North,Standard
+C00596,Customer 0596,Retail,Chennai,Tamil Nadu,South,Standard
+C00597,Customer 0597,Retail,Bengaluru,Karnataka,South,Gold
+C00598,Customer 0598,Wholesale,Hyderabad,Telangana,South,Silver
+C00599,Customer 0599,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00600,Customer 0600,Retail,Chennai,Tamil Nadu,South,Silver
+C00601,Customer 0601,Retail,Hyderabad,Telangana,South,Standard
+C00602,Customer 0602,Retail,Mumbai,Maharashtra,West,Standard
+C00603,Customer 0603,Retail,Pune,Maharashtra,West,Platinum
+C00604,Customer 0604,Retail,Chennai,Tamil Nadu,South,Standard
+C00605,Customer 0605,Corporate,Delhi,Delhi,North,Silver
+C00606,Customer 0606,Corporate,Hyderabad,Telangana,South,Standard
+C00607,Customer 0607,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00608,Customer 0608,Wholesale,Bengaluru,Karnataka,South,Gold
+C00609,Customer 0609,Corporate,Hyderabad,Telangana,South,Silver
+C00610,Customer 0610,Retail,Mumbai,Maharashtra,West,Silver
+C00611,Customer 0611,Wholesale,Delhi,Delhi,North,Standard
+C00612,Customer 0612,Retail,Bengaluru,Karnataka,South,Silver
+C00613,Customer 0613,Retail,Chennai,Tamil Nadu,South,Silver
+C00614,Customer 0614,Retail,Bengaluru,Karnataka,South,Silver
+C00615,Customer 0615,Retail,Kolkata,West Bengal,East,Standard
+C00616,Customer 0616,Wholesale,Hyderabad,Telangana,South,Platinum
+C00617,Customer 0617,Corporate,Hyderabad,Telangana,South,Silver
+C00618,Customer 0618,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00619,Customer 0619,Wholesale,Pune,Maharashtra,West,Silver
+C00620,Customer 0620,Retail,Delhi,Delhi,North,Standard
+C00621,Customer 0621,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00622,Customer 0622,Retail,Bengaluru,Karnataka,South,Standard
+C00623,Customer 0623,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00624,Customer 0624,Retail,Chennai,Tamil Nadu,South,Standard
+C00625,Customer 0625,Retail,Chennai,Tamil Nadu,South,Silver
+C00626,Customer 0626,Wholesale,Mumbai,Maharashtra,West,Silver
+C00627,Customer 0627,Corporate,Chennai,Tamil Nadu,South,Gold
+C00628,Customer 0628,Retail,Mumbai,Maharashtra,West,Silver
+C00629,Customer 0629,Corporate,Chennai,Tamil Nadu,South,Standard
+C00630,Customer 0630,Retail,Bengaluru,Karnataka,South,Platinum
+C00631,Customer 0631,Retail,Bengaluru,Karnataka,South,Standard
+C00632,Customer 0632,Retail,Delhi,Delhi,North,Silver
+C00633,Customer 0633,Corporate,Hyderabad,Telangana,South,Platinum
+C00634,Customer 0634,Retail,Bengaluru,Karnataka,South,Silver
+C00635,Customer 0635,Retail,Mumbai,Maharashtra,West,Gold
+C00636,Customer 0636,Retail,Hyderabad,Telangana,South,Standard
+C00637,Customer 0637,Retail,Kolkata,West Bengal,East,Standard
+C00638,Customer 0638,Wholesale,Hyderabad,Telangana,South,Gold
+C00639,Customer 0639,Wholesale,Pune,Maharashtra,West,Standard
+C00640,Customer 0640,Wholesale,Pune,Maharashtra,West,Silver
+C00641,Customer 0641,Corporate,Pune,Maharashtra,West,Standard
+C00642,Customer 0642,Retail,Chennai,Tamil Nadu,South,Standard
+C00643,Customer 0643,Retail,Mumbai,Maharashtra,West,Silver
+C00644,Customer 0644,Corporate,Hyderabad,Telangana,South,Standard
+C00645,Customer 0645,Retail,Ahmedabad,Gujarat,West,Gold
+C00646,Customer 0646,Retail,Pune,Maharashtra,West,Standard
+C00647,Customer 0647,Wholesale,Delhi,Delhi,North,Gold
+C00648,Customer 0648,Wholesale,Pune,Maharashtra,West,Gold
+C00649,Customer 0649,Retail,Hyderabad,Telangana,South,Standard
+C00650,Customer 0650,Retail,Mumbai,Maharashtra,West,Standard
+C00651,Customer 0651,Retail,Chennai,Tamil Nadu,South,Silver
+C00652,Customer 0652,Retail,Mumbai,Maharashtra,West,Silver
+C00653,Customer 0653,Retail,Chennai,Tamil Nadu,South,Standard
+C00654,Customer 0654,Wholesale,Delhi,Delhi,North,Silver
+C00655,Customer 0655,Retail,Chennai,Tamil Nadu,South,Silver
+C00656,Customer 0656,Wholesale,Hyderabad,Telangana,South,Standard
+C00657,Customer 0657,Corporate,Hyderabad,Telangana,South,Standard
+C00658,Customer 0658,Corporate,Mumbai,Maharashtra,West,Standard
+C00659,Customer 0659,Retail,Hyderabad,Telangana,South,Standard
+C00660,Customer 0660,Corporate,Pune,Maharashtra,West,Silver
+C00661,Customer 0661,Retail,Hyderabad,Telangana,South,Gold
+C00662,Customer 0662,Corporate,Ahmedabad,Gujarat,West,Silver
+C00663,Customer 0663,Wholesale,Pune,Maharashtra,West,Silver
+C00664,Customer 0664,Corporate,Chennai,Tamil Nadu,South,Standard
+C00665,Customer 0665,Retail,Chennai,Tamil Nadu,South,Silver
+C00666,Customer 0666,Corporate,Hyderabad,Telangana,South,Standard
+C00667,Customer 0667,Corporate,Chennai,Tamil Nadu,South,Standard
+C00668,Customer 0668,Retail,Delhi,Delhi,North,Silver
+C00669,Customer 0669,Retail,Mumbai,Maharashtra,West,Gold
+C00670,Customer 0670,Retail,Delhi,Delhi,North,Gold
+C00671,Customer 0671,Wholesale,Bengaluru,Karnataka,South,Silver
+C00672,Customer 0672,Retail,Ahmedabad,Gujarat,West,Silver
+C00673,Customer 0673,Wholesale,Delhi,Delhi,North,Standard
+C00674,Customer 0674,Retail,Bengaluru,Karnataka,South,Standard
+C00675,Customer 0675,Retail,Mumbai,Maharashtra,West,Silver
+C00676,Customer 0676,Wholesale,Hyderabad,Telangana,South,Standard
+C00677,Customer 0677,Corporate,Bengaluru,Karnataka,South,Standard
+C00678,Customer 0678,Wholesale,Kolkata,West Bengal,East,Standard
+C00679,Customer 0679,Retail,Hyderabad,Telangana,South,Standard
+C00680,Customer 0680,Corporate,Chennai,Tamil Nadu,South,Gold
+C00681,Customer 0681,Wholesale,Mumbai,Maharashtra,West,Silver
+C00682,Customer 0682,Corporate,Kolkata,West Bengal,East,Standard
+C00683,Customer 0683,Wholesale,Delhi,Delhi,North,Standard
+C00684,Customer 0684,Retail,Bengaluru,Karnataka,South,Standard
+C00685,Customer 0685,Retail,Pune,Maharashtra,West,Standard
+C00686,Customer 0686,Retail,Pune,Maharashtra,West,Standard
+C00687,Customer 0687,Retail,Bengaluru,Karnataka,South,Silver
+C00688,Customer 0688,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00689,Customer 0689,Wholesale,Ahmedabad,Gujarat,West,Silver
+C00690,Customer 0690,Retail,Kolkata,West Bengal,East,Standard
+C00691,Customer 0691,Wholesale,Chennai,Tamil Nadu,South,Platinum
+C00692,Customer 0692,Corporate,Ahmedabad,Gujarat,West,Standard
+C00693,Customer 0693,Retail,Bengaluru,Karnataka,South,Gold
+C00694,Customer 0694,Retail,Kolkata,West Bengal,East,Standard
+C00695,Customer 0695,Wholesale,Delhi,Delhi,North,Silver
+C00696,Customer 0696,Retail,Kolkata,West Bengal,East,Standard
+C00697,Customer 0697,Retail,Kolkata,West Bengal,East,Standard
+C00698,Customer 0698,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00699,Customer 0699,Retail,Mumbai,Maharashtra,West,Gold
+C00700,Customer 0700,Corporate,Pune,Maharashtra,West,Platinum
+C00701,Customer 0701,Retail,Hyderabad,Telangana,South,Silver
+C00702,Customer 0702,Wholesale,Pune,Maharashtra,West,Silver
+C00703,Customer 0703,Wholesale,Pune,Maharashtra,West,Silver
+C00704,Customer 0704,Wholesale,Delhi,Delhi,North,Standard
+C00705,Customer 0705,Wholesale,Pune,Maharashtra,West,Standard
+C00706,Customer 0706,Corporate,Mumbai,Maharashtra,West,Silver
+C00707,Customer 0707,Wholesale,Hyderabad,Telangana,South,Silver
+C00708,Customer 0708,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00709,Customer 0709,Retail,Mumbai,Maharashtra,West,Silver
+C00710,Customer 0710,Retail,Kolkata,West Bengal,East,Silver
+C00711,Customer 0711,Wholesale,Ahmedabad,Gujarat,West,Silver
+C00712,Customer 0712,Wholesale,Delhi,Delhi,North,Silver
+C00713,Customer 0713,Corporate,Mumbai,Maharashtra,West,Silver
+C00714,Customer 0714,Corporate,Hyderabad,Telangana,South,Platinum
+C00715,Customer 0715,Wholesale,Mumbai,Maharashtra,West,Silver
+C00716,Customer 0716,Retail,Ahmedabad,Gujarat,West,Silver
+C00717,Customer 0717,Retail,Kolkata,West Bengal,East,Gold
+C00718,Customer 0718,Retail,Kolkata,West Bengal,East,Standard
+C00719,Customer 0719,Retail,Kolkata,West Bengal,East,Standard
+C00720,Customer 0720,Retail,Pune,Maharashtra,West,Gold
+C00721,Customer 0721,Retail,Ahmedabad,Gujarat,West,Standard
+C00722,Customer 0722,Retail,Mumbai,Maharashtra,West,Standard
+C00723,Customer 0723,Wholesale,Delhi,Delhi,North,Standard
+C00724,Customer 0724,Wholesale,Delhi,Delhi,North,Standard
+C00725,Customer 0725,Corporate,Chennai,Tamil Nadu,South,Silver
+C00726,Customer 0726,Corporate,Hyderabad,Telangana,South,Standard
+C00727,Customer 0727,Retail,Chennai,Tamil Nadu,South,Silver
+C00728,Customer 0728,Corporate,Hyderabad,Telangana,South,Standard
+C00729,Customer 0729,Corporate,Chennai,Tamil Nadu,South,Silver
+C00730,Customer 0730,Retail,Kolkata,West Bengal,East,Silver
+C00731,Customer 0731,Wholesale,Hyderabad,Telangana,South,Silver
+C00732,Customer 0732,Corporate,Hyderabad,Telangana,South,Silver
+C00733,Customer 0733,Wholesale,Mumbai,Maharashtra,West,Silver
+C00734,Customer 0734,Corporate,Pune,Maharashtra,West,Standard
+C00735,Customer 0735,Wholesale,Hyderabad,Telangana,South,Gold
+C00736,Customer 0736,Retail,Ahmedabad,Gujarat,West,Gold
+C00737,Customer 0737,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00738,Customer 0738,Retail,Hyderabad,Telangana,South,Standard
+C00739,Customer 0739,Retail,Hyderabad,Telangana,South,Gold
+C00740,Customer 0740,Retail,Hyderabad,Telangana,South,Gold
+C00741,Customer 0741,Wholesale,Chennai,Tamil Nadu,South,Gold
+C00742,Customer 0742,Retail,Bengaluru,Karnataka,South,Silver
+C00743,Customer 0743,Wholesale,Mumbai,Maharashtra,West,Standard
+C00744,Customer 0744,Retail,Ahmedabad,Gujarat,West,Gold
+C00745,Customer 0745,Wholesale,Mumbai,Maharashtra,West,Standard
+C00746,Customer 0746,Wholesale,Hyderabad,Telangana,South,Standard
+C00747,Customer 0747,Corporate,Hyderabad,Telangana,South,Gold
+C00748,Customer 0748,Corporate,Bengaluru,Karnataka,South,Platinum
+C00749,Customer 0749,Retail,Chennai,Tamil Nadu,South,Standard
+C00750,Customer 0750,Retail,Mumbai,Maharashtra,West,Standard
+C00751,Customer 0751,Retail,Mumbai,Maharashtra,West,Standard
+C00752,Customer 0752,Retail,Ahmedabad,Gujarat,West,Standard
+C00753,Customer 0753,Wholesale,Hyderabad,Telangana,South,Standard
+C00754,Customer 0754,Wholesale,Chennai,Tamil Nadu,South,Gold
+C00755,Customer 0755,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00756,Customer 0756,Retail,Pune,Maharashtra,West,Standard
+C00757,Customer 0757,Wholesale,Hyderabad,Telangana,South,Standard
+C00758,Customer 0758,Retail,Ahmedabad,Gujarat,West,Gold
+C00759,Customer 0759,Wholesale,Mumbai,Maharashtra,West,Gold
+C00760,Customer 0760,Wholesale,Delhi,Delhi,North,Silver
+C00761,Customer 0761,Retail,Chennai,Tamil Nadu,South,Platinum
+C00762,Customer 0762,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00763,Customer 0763,Retail,Mumbai,Maharashtra,West,Gold
+C00764,Customer 0764,Retail,Pune,Maharashtra,West,Gold
+C00765,Customer 0765,Retail,Pune,Maharashtra,West,Standard
+C00766,Customer 0766,Wholesale,Pune,Maharashtra,West,Standard
+C00767,Customer 0767,Wholesale,Mumbai,Maharashtra,West,Standard
+C00768,Customer 0768,Retail,Bengaluru,Karnataka,South,Standard
+C00769,Customer 0769,Retail,Mumbai,Maharashtra,West,Standard
+C00770,Customer 0770,Retail,Kolkata,West Bengal,East,Standard
+C00771,Customer 0771,Retail,Kolkata,West Bengal,East,Standard
+C00772,Customer 0772,Retail,Hyderabad,Telangana,South,Gold
+C00773,Customer 0773,Retail,Pune,Maharashtra,West,Gold
+C00774,Customer 0774,Corporate,Bengaluru,Karnataka,South,Silver
+C00775,Customer 0775,Retail,Mumbai,Maharashtra,West,Standard
+C00776,Customer 0776,Retail,Chennai,Tamil Nadu,South,Standard
+C00777,Customer 0777,Retail,Bengaluru,Karnataka,South,Silver
+C00778,Customer 0778,Retail,Pune,Maharashtra,West,Standard
+C00779,Customer 0779,Corporate,Ahmedabad,Gujarat,West,Standard
+C00780,Customer 0780,Wholesale,Kolkata,West Bengal,East,Standard
+C00781,Customer 0781,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00782,Customer 0782,Retail,Bengaluru,Karnataka,South,Silver
+C00783,Customer 0783,Retail,Bengaluru,Karnataka,South,Standard
+C00784,Customer 0784,Corporate,Chennai,Tamil Nadu,South,Silver
+C00785,Customer 0785,Retail,Hyderabad,Telangana,South,Silver
+C00786,Customer 0786,Retail,Mumbai,Maharashtra,West,Silver
+C00787,Customer 0787,Retail,Chennai,Tamil Nadu,South,Standard
+C00788,Customer 0788,Retail,Kolkata,West Bengal,East,Standard
+C00789,Customer 0789,Corporate,Bengaluru,Karnataka,South,Standard
+C00790,Customer 0790,Wholesale,Mumbai,Maharashtra,West,Silver
+C00791,Customer 0791,Retail,Pune,Maharashtra,West,Standard
+C00792,Customer 0792,Wholesale,Bengaluru,Karnataka,South,Standard
+C00793,Customer 0793,Corporate,Ahmedabad,Gujarat,West,Gold
+C00794,Customer 0794,Corporate,Delhi,Delhi,North,Gold
+C00795,Customer 0795,Wholesale,Ahmedabad,Gujarat,West,Gold
+C00796,Customer 0796,Wholesale,Kolkata,West Bengal,East,Platinum
+C00797,Customer 0797,Wholesale,Pune,Maharashtra,West,Silver
+C00798,Customer 0798,Corporate,Mumbai,Maharashtra,West,Standard
+C00799,Customer 0799,Wholesale,Delhi,Delhi,North,Platinum
+C00800,Customer 0800,Retail,Kolkata,West Bengal,East,Silver
+C00801,Customer 0801,Corporate,Bengaluru,Karnataka,South,Gold
+C00802,Customer 0802,Wholesale,Kolkata,West Bengal,East,Silver
+C00803,Customer 0803,Corporate,Ahmedabad,Gujarat,West,Standard
+C00804,Customer 0804,Wholesale,Chennai,Tamil Nadu,South,Gold
+C00805,Customer 0805,Retail,Kolkata,West Bengal,East,Standard
+C00806,Customer 0806,Corporate,Mumbai,Maharashtra,West,Silver
+C00807,Customer 0807,Wholesale,Bengaluru,Karnataka,South,Standard
+C00808,Customer 0808,Corporate,Bengaluru,Karnataka,South,Standard
+C00809,Customer 0809,Retail,Pune,Maharashtra,West,Silver
+C00810,Customer 0810,Retail,Chennai,Tamil Nadu,South,Gold
+C00811,Customer 0811,Retail,Delhi,Delhi,North,Standard
+C00812,Customer 0812,Retail,Mumbai,Maharashtra,West,Gold
+C00813,Customer 0813,Corporate,Chennai,Tamil Nadu,South,Standard
+C00814,Customer 0814,Retail,Chennai,Tamil Nadu,South,Standard
+C00815,Customer 0815,Wholesale,Kolkata,West Bengal,East,Silver
+C00816,Customer 0816,Retail,Bengaluru,Karnataka,South,Silver
+C00817,Customer 0817,Corporate,Hyderabad,Telangana,South,Platinum
+C00818,Customer 0818,Wholesale,Delhi,Delhi,North,Gold
+C00819,Customer 0819,Retail,Mumbai,Maharashtra,West,Silver
+C00820,Customer 0820,Retail,Kolkata,West Bengal,East,Gold
+C00821,Customer 0821,Retail,Bengaluru,Karnataka,South,Gold
+C00822,Customer 0822,Corporate,Ahmedabad,Gujarat,West,Standard
+C00823,Customer 0823,Corporate,Hyderabad,Telangana,South,Platinum
+C00824,Customer 0824,Retail,Pune,Maharashtra,West,Standard
+C00825,Customer 0825,Retail,Pune,Maharashtra,West,Standard
+C00826,Customer 0826,Retail,Delhi,Delhi,North,Standard
+C00827,Customer 0827,Wholesale,Bengaluru,Karnataka,South,Silver
+C00828,Customer 0828,Wholesale,Pune,Maharashtra,West,Standard
+C00829,Customer 0829,Retail,Bengaluru,Karnataka,South,Standard
+C00830,Customer 0830,Retail,Hyderabad,Telangana,South,Standard
+C00831,Customer 0831,Retail,Hyderabad,Telangana,South,Silver
+C00832,Customer 0832,Wholesale,Bengaluru,Karnataka,South,Platinum
+C00833,Customer 0833,Wholesale,Hyderabad,Telangana,South,Standard
+C00834,Customer 0834,Wholesale,Kolkata,West Bengal,East,Standard
+C00835,Customer 0835,Retail,Delhi,Delhi,North,Standard
+C00836,Customer 0836,Retail,Mumbai,Maharashtra,West,Silver
+C00837,Customer 0837,Wholesale,Kolkata,West Bengal,East,Silver
+C00838,Customer 0838,Retail,Kolkata,West Bengal,East,Standard
+C00839,Customer 0839,Retail,Pune,Maharashtra,West,Standard
+C00840,Customer 0840,Retail,Delhi,Delhi,North,Platinum
+C00841,Customer 0841,Retail,Delhi,Delhi,North,Silver
+C00842,Customer 0842,Retail,Pune,Maharashtra,West,Silver
+C00843,Customer 0843,Retail,Hyderabad,Telangana,South,Silver
+C00844,Customer 0844,Retail,Hyderabad,Telangana,South,Gold
+C00845,Customer 0845,Wholesale,Mumbai,Maharashtra,West,Silver
+C00846,Customer 0846,Wholesale,Hyderabad,Telangana,South,Silver
+C00847,Customer 0847,Retail,Bengaluru,Karnataka,South,Gold
+C00848,Customer 0848,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00849,Customer 0849,Retail,Bengaluru,Karnataka,South,Standard
+C00850,Customer 0850,Retail,Hyderabad,Telangana,South,Standard
+C00851,Customer 0851,Retail,Mumbai,Maharashtra,West,Gold
+C00852,Customer 0852,Retail,Pune,Maharashtra,West,Silver
+C00853,Customer 0853,Retail,Mumbai,Maharashtra,West,Standard
+C00854,Customer 0854,Wholesale,Bengaluru,Karnataka,South,Standard
+C00855,Customer 0855,Retail,Chennai,Tamil Nadu,South,Silver
+C00856,Customer 0856,Retail,Ahmedabad,Gujarat,West,Silver
+C00857,Customer 0857,Retail,Delhi,Delhi,North,Standard
+C00858,Customer 0858,Retail,Mumbai,Maharashtra,West,Standard
+C00859,Customer 0859,Retail,Pune,Maharashtra,West,Standard
+C00860,Customer 0860,Corporate,Ahmedabad,Gujarat,West,Standard
+C00861,Customer 0861,Wholesale,Kolkata,West Bengal,East,Gold
+C00862,Customer 0862,Wholesale,Mumbai,Maharashtra,West,Silver
+C00863,Customer 0863,Retail,Hyderabad,Telangana,South,Platinum
+C00864,Customer 0864,Wholesale,Ahmedabad,Gujarat,West,Gold
+C00865,Customer 0865,Retail,Mumbai,Maharashtra,West,Silver
+C00866,Customer 0866,Retail,Hyderabad,Telangana,South,Silver
+C00867,Customer 0867,Wholesale,Kolkata,West Bengal,East,Standard
+C00868,Customer 0868,Retail,Ahmedabad,Gujarat,West,Standard
+C00869,Customer 0869,Retail,Pune,Maharashtra,West,Gold
+C00870,Customer 0870,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00871,Customer 0871,Wholesale,Bengaluru,Karnataka,South,Gold
+C00872,Customer 0872,Corporate,Hyderabad,Telangana,South,Silver
+C00873,Customer 0873,Retail,Delhi,Delhi,North,Silver
+C00874,Customer 0874,Corporate,Kolkata,West Bengal,East,Standard
+C00875,Customer 0875,Retail,Pune,Maharashtra,West,Silver
+C00876,Customer 0876,Retail,Mumbai,Maharashtra,West,Silver
+C00877,Customer 0877,Retail,Kolkata,West Bengal,East,Gold
+C00878,Customer 0878,Retail,Mumbai,Maharashtra,West,Gold
+C00879,Customer 0879,Wholesale,Bengaluru,Karnataka,South,Silver
+C00880,Customer 0880,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00881,Customer 0881,Retail,Bengaluru,Karnataka,South,Silver
+C00882,Customer 0882,Retail,Ahmedabad,Gujarat,West,Standard
+C00883,Customer 0883,Retail,Pune,Maharashtra,West,Standard
+C00884,Customer 0884,Wholesale,Mumbai,Maharashtra,West,Silver
+C00885,Customer 0885,Retail,Kolkata,West Bengal,East,Standard
+C00886,Customer 0886,Retail,Bengaluru,Karnataka,South,Silver
+C00887,Customer 0887,Corporate,Kolkata,West Bengal,East,Standard
+C00888,Customer 0888,Retail,Chennai,Tamil Nadu,South,Gold
+C00889,Customer 0889,Retail,Kolkata,West Bengal,East,Platinum
+C00890,Customer 0890,Corporate,Hyderabad,Telangana,South,Silver
+C00891,Customer 0891,Wholesale,Bengaluru,Karnataka,South,Platinum
+C00892,Customer 0892,Corporate,Bengaluru,Karnataka,South,Standard
+C00893,Customer 0893,Retail,Bengaluru,Karnataka,South,Standard
+C00894,Customer 0894,Wholesale,Mumbai,Maharashtra,West,Standard
+C00895,Customer 0895,Retail,Ahmedabad,Gujarat,West,Silver
+C00896,Customer 0896,Retail,Hyderabad,Telangana,South,Standard
+C00897,Customer 0897,Corporate,Bengaluru,Karnataka,South,Standard
+C00898,Customer 0898,Retail,Chennai,Tamil Nadu,South,Standard
+C00899,Customer 0899,Retail,Pune,Maharashtra,West,Standard
+C00900,Customer 0900,Retail,Bengaluru,Karnataka,South,Silver
+C00901,Customer 0901,Retail,Ahmedabad,Gujarat,West,Standard
+C00902,Customer 0902,Wholesale,Delhi,Delhi,North,Standard
+C00903,Customer 0903,Retail,Bengaluru,Karnataka,South,Standard
+C00904,Customer 0904,Retail,Hyderabad,Telangana,South,Platinum
+C00905,Customer 0905,Corporate,Mumbai,Maharashtra,West,Standard
+C00906,Customer 0906,Retail,Ahmedabad,Gujarat,West,Standard
+C00907,Customer 0907,Retail,Bengaluru,Karnataka,South,Standard
+C00908,Customer 0908,Retail,Chennai,Tamil Nadu,South,Standard
+C00909,Customer 0909,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00910,Customer 0910,Corporate,Chennai,Tamil Nadu,South,Standard
+C00911,Customer 0911,Retail,Hyderabad,Telangana,South,Silver
+C00912,Customer 0912,Retail,Pune,Maharashtra,West,Standard
+C00913,Customer 0913,Retail,Chennai,Tamil Nadu,South,Standard
+C00914,Customer 0914,Corporate,Pune,Maharashtra,West,Standard
+C00915,Customer 0915,Retail,Mumbai,Maharashtra,West,Standard
+C00916,Customer 0916,Retail,Pune,Maharashtra,West,Standard
+C00917,Customer 0917,Retail,Hyderabad,Telangana,South,Standard
+C00918,Customer 0918,Retail,Delhi,Delhi,North,Gold
+C00919,Customer 0919,Corporate,Delhi,Delhi,North,Silver
+C00920,Customer 0920,Wholesale,Kolkata,West Bengal,East,Silver
+C00921,Customer 0921,Retail,Delhi,Delhi,North,Standard
+C00922,Customer 0922,Wholesale,Ahmedabad,Gujarat,West,Silver
+C00923,Customer 0923,Retail,Kolkata,West Bengal,East,Standard
+C00924,Customer 0924,Wholesale,Bengaluru,Karnataka,South,Standard
+C00925,Customer 0925,Retail,Bengaluru,Karnataka,South,Gold
+C00926,Customer 0926,Retail,Kolkata,West Bengal,East,Gold
+C00927,Customer 0927,Retail,Kolkata,West Bengal,East,Standard
+C00928,Customer 0928,Retail,Mumbai,Maharashtra,West,Standard
+C00929,Customer 0929,Corporate,Bengaluru,Karnataka,South,Silver
+C00930,Customer 0930,Retail,Delhi,Delhi,North,Standard
+C00931,Customer 0931,Wholesale,Delhi,Delhi,North,Standard
+C00932,Customer 0932,Corporate,Kolkata,West Bengal,East,Standard
+C00933,Customer 0933,Corporate,Mumbai,Maharashtra,West,Silver
+C00934,Customer 0934,Retail,Kolkata,West Bengal,East,Silver
+C00935,Customer 0935,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00936,Customer 0936,Wholesale,Bengaluru,Karnataka,South,Gold
+C00937,Customer 0937,Retail,Ahmedabad,Gujarat,West,Silver
+C00938,Customer 0938,Retail,Chennai,Tamil Nadu,South,Standard
+C00939,Customer 0939,Retail,Bengaluru,Karnataka,South,Silver
+C00940,Customer 0940,Wholesale,Bengaluru,Karnataka,South,Standard
+C00941,Customer 0941,Retail,Ahmedabad,Gujarat,West,Standard
+C00942,Customer 0942,Wholesale,Mumbai,Maharashtra,West,Standard
+C00943,Customer 0943,Corporate,Mumbai,Maharashtra,West,Silver
+C00944,Customer 0944,Wholesale,Pune,Maharashtra,West,Standard
+C00945,Customer 0945,Retail,Delhi,Delhi,North,Gold
+C00946,Customer 0946,Wholesale,Chennai,Tamil Nadu,South,Standard
+C00947,Customer 0947,Retail,Chennai,Tamil Nadu,South,Silver
+C00948,Customer 0948,Wholesale,Chennai,Tamil Nadu,South,Silver
+C00949,Customer 0949,Retail,Pune,Maharashtra,West,Silver
+C00950,Customer 0950,Wholesale,Ahmedabad,Gujarat,West,Standard
+C00951,Customer 0951,Retail,Hyderabad,Telangana,South,Silver
+C00952,Customer 0952,Wholesale,Ahmedabad,Gujarat,West,Gold
+C00953,Customer 0953,Retail,Mumbai,Maharashtra,West,Gold
+C00954,Customer 0954,Wholesale,Pune,Maharashtra,West,Silver
+C00955,Customer 0955,Retail,Hyderabad,Telangana,South,Silver
+C00956,Customer 0956,Corporate,Kolkata,West Bengal,East,Standard
+C00957,Customer 0957,Corporate,Pune,Maharashtra,West,Gold
+C00958,Customer 0958,Corporate,Mumbai,Maharashtra,West,Standard
+C00959,Customer 0959,Retail,Mumbai,Maharashtra,West,Silver
+C00960,Customer 0960,Retail,Ahmedabad,Gujarat,West,Gold
+C00961,Customer 0961,Wholesale,Pune,Maharashtra,West,Silver
+C00962,Customer 0962,Retail,Ahmedabad,Gujarat,West,Silver
+C00963,Customer 0963,Retail,Chennai,Tamil Nadu,South,Silver
+C00964,Customer 0964,Corporate,Pune,Maharashtra,West,Silver
+C00965,Customer 0965,Retail,Chennai,Tamil Nadu,South,Silver
+C00966,Customer 0966,Retail,Kolkata,West Bengal,East,Standard
+C00967,Customer 0967,Retail,Pune,Maharashtra,West,Standard
+C00968,Customer 0968,Wholesale,Mumbai,Maharashtra,West,Standard
+C00969,Customer 0969,Retail,Bengaluru,Karnataka,South,Silver
+C00970,Customer 0970,Retail,Mumbai,Maharashtra,West,Silver
+C00971,Customer 0971,Retail,Delhi,Delhi,North,Gold
+C00972,Customer 0972,Retail,Pune,Maharashtra,West,Silver
+C00973,Customer 0973,Retail,Chennai,Tamil Nadu,South,Standard
+C00974,Customer 0974,Corporate,Chennai,Tamil Nadu,South,Standard
+C00975,Customer 0975,Retail,Chennai,Tamil Nadu,South,Standard
+C00976,Customer 0976,Retail,Delhi,Delhi,North,Silver
+C00977,Customer 0977,Corporate,Delhi,Delhi,North,Silver
+C00978,Customer 0978,Corporate,Mumbai,Maharashtra,West,Standard
+C00979,Customer 0979,Wholesale,Delhi,Delhi,North,Silver
+C00980,Customer 0980,Corporate,Kolkata,West Bengal,East,Silver
+C00981,Customer 0981,Wholesale,Delhi,Delhi,North,Standard
+C00982,Customer 0982,Wholesale,Ahmedabad,Gujarat,West,Silver
+C00983,Customer 0983,Wholesale,Mumbai,Maharashtra,West,Standard
+C00984,Customer 0984,Retail,Ahmedabad,Gujarat,West,Standard
+C00985,Customer 0985,Retail,Ahmedabad,Gujarat,West,Silver
+C00986,Customer 0986,Wholesale,Mumbai,Maharashtra,West,Gold
+C00987,Customer 0987,Retail,Ahmedabad,Gujarat,West,Standard
+C00988,Customer 0988,Corporate,Hyderabad,Telangana,South,Standard
+C00989,Customer 0989,Retail,Ahmedabad,Gujarat,West,Gold
+C00990,Customer 0990,Retail,Bengaluru,Karnataka,South,Silver
+C00991,Customer 0991,Wholesale,Bengaluru,Karnataka,South,Standard
+C00992,Customer 0992,Retail,Delhi,Delhi,North,Standard
+C00993,Customer 0993,Wholesale,Delhi,Delhi,North,Standard
+C00994,Customer 0994,Retail,Chennai,Tamil Nadu,South,Standard
+C00995,Customer 0995,Retail,Pune,Maharashtra,West,Silver
+C00996,Customer 0996,Retail,Pune,Maharashtra,West,Platinum
+C00997,Customer 0997,Retail,Hyderabad,Telangana,South,Standard
+C00998,Customer 0998,Retail,Delhi,Delhi,North,Standard
+C00999,Customer 0999,Corporate,Kolkata,West Bengal,East,Silver
+C01000,Customer 1000,Retail,Chennai,Tamil Nadu,South,Silver
+C01001,Customer 1001,Corporate,Mumbai,Maharashtra,West,Standard
+C01002,Customer 1002,Wholesale,Hyderabad,Telangana,South,Gold
+C01003,Customer 1003,Retail,Delhi,Delhi,North,Standard
+C01004,Customer 1004,Corporate,Bengaluru,Karnataka,South,Silver
+C01005,Customer 1005,Wholesale,Delhi,Delhi,North,Gold
+C01006,Customer 1006,Retail,Delhi,Delhi,North,Silver
+C01007,Customer 1007,Retail,Pune,Maharashtra,West,Gold
+C01008,Customer 1008,Retail,Delhi,Delhi,North,Standard
+C01009,Customer 1009,Retail,Pune,Maharashtra,West,Standard
+C01010,Customer 1010,Retail,Kolkata,West Bengal,East,Silver
+C01011,Customer 1011,Retail,Bengaluru,Karnataka,South,Standard
+C01012,Customer 1012,Retail,Kolkata,West Bengal,East,Platinum
+C01013,Customer 1013,Corporate,Ahmedabad,Gujarat,West,Gold
+C01014,Customer 1014,Retail,Hyderabad,Telangana,South,Gold
+C01015,Customer 1015,Retail,Ahmedabad,Gujarat,West,Standard
+C01016,Customer 1016,Wholesale,Delhi,Delhi,North,Gold
+C01017,Customer 1017,Corporate,Bengaluru,Karnataka,South,Silver
+C01018,Customer 1018,Wholesale,Kolkata,West Bengal,East,Gold
+C01019,Customer 1019,Retail,Bengaluru,Karnataka,South,Standard
+C01020,Customer 1020,Corporate,Chennai,Tamil Nadu,South,Standard
+C01021,Customer 1021,Retail,Pune,Maharashtra,West,Standard
+C01022,Customer 1022,Wholesale,Delhi,Delhi,North,Standard
+C01023,Customer 1023,Retail,Bengaluru,Karnataka,South,Gold
+C01024,Customer 1024,Retail,Ahmedabad,Gujarat,West,Platinum
+C01025,Customer 1025,Retail,Ahmedabad,Gujarat,West,Standard
+C01026,Customer 1026,Retail,Pune,Maharashtra,West,Silver
+C01027,Customer 1027,Retail,Pune,Maharashtra,West,Standard
+C01028,Customer 1028,Wholesale,Kolkata,West Bengal,East,Silver
+C01029,Customer 1029,Retail,Hyderabad,Telangana,South,Silver
+C01030,Customer 1030,Corporate,Delhi,Delhi,North,Standard
+C01031,Customer 1031,Retail,Delhi,Delhi,North,Silver
+C01032,Customer 1032,Retail,Bengaluru,Karnataka,South,Platinum
+C01033,Customer 1033,Retail,Bengaluru,Karnataka,South,Gold
+C01034,Customer 1034,Retail,Delhi,Delhi,North,Gold
+C01035,Customer 1035,Wholesale,Hyderabad,Telangana,South,Platinum
+C01036,Customer 1036,Wholesale,Bengaluru,Karnataka,South,Gold
+C01037,Customer 1037,Wholesale,Kolkata,West Bengal,East,Silver
+C01038,Customer 1038,Wholesale,Mumbai,Maharashtra,West,Standard
+C01039,Customer 1039,Wholesale,Kolkata,West Bengal,East,Standard
+C01040,Customer 1040,Wholesale,Chennai,Tamil Nadu,South,Gold
+C01041,Customer 1041,Retail,Chennai,Tamil Nadu,South,Platinum
+C01042,Customer 1042,Retail,Ahmedabad,Gujarat,West,Silver
+C01043,Customer 1043,Retail,Bengaluru,Karnataka,South,Standard
+C01044,Customer 1044,Retail,Kolkata,West Bengal,East,Silver
+C01045,Customer 1045,Retail,Pune,Maharashtra,West,Standard
+C01046,Customer 1046,Wholesale,Kolkata,West Bengal,East,Standard
+C01047,Customer 1047,Corporate,Pune,Maharashtra,West,Gold
+C01048,Customer 1048,Corporate,Delhi,Delhi,North,Silver
+C01049,Customer 1049,Retail,Mumbai,Maharashtra,West,Standard
+C01050,Customer 1050,Wholesale,Kolkata,West Bengal,East,Standard
+C01051,Customer 1051,Wholesale,Mumbai,Maharashtra,West,Platinum
+C01052,Customer 1052,Retail,Ahmedabad,Gujarat,West,Silver
+C01053,Customer 1053,Retail,Delhi,Delhi,North,Silver
+C01054,Customer 1054,Wholesale,Delhi,Delhi,North,Platinum
+C01055,Customer 1055,Retail,Ahmedabad,Gujarat,West,Silver
+C01056,Customer 1056,Wholesale,Delhi,Delhi,North,Standard
+C01057,Customer 1057,Retail,Delhi,Delhi,North,Standard
+C01058,Customer 1058,Retail,Mumbai,Maharashtra,West,Standard
+C01059,Customer 1059,Retail,Ahmedabad,Gujarat,West,Silver
+C01060,Customer 1060,Retail,Pune,Maharashtra,West,Gold
+C01061,Customer 1061,Retail,Chennai,Tamil Nadu,South,Standard
+C01062,Customer 1062,Retail,Bengaluru,Karnataka,South,Silver
+C01063,Customer 1063,Corporate,Bengaluru,Karnataka,South,Standard
+C01064,Customer 1064,Retail,Kolkata,West Bengal,East,Silver
+C01065,Customer 1065,Retail,Chennai,Tamil Nadu,South,Gold
+C01066,Customer 1066,Retail,Pune,Maharashtra,West,Silver
+C01067,Customer 1067,Retail,Bengaluru,Karnataka,South,Standard
+C01068,Customer 1068,Wholesale,Hyderabad,Telangana,South,Standard
+C01069,Customer 1069,Wholesale,Kolkata,West Bengal,East,Gold
+C01070,Customer 1070,Retail,Kolkata,West Bengal,East,Standard
+C01071,Customer 1071,Wholesale,Kolkata,West Bengal,East,Gold
+C01072,Customer 1072,Retail,Mumbai,Maharashtra,West,Gold
+C01073,Customer 1073,Retail,Kolkata,West Bengal,East,Standard
+C01074,Customer 1074,Wholesale,Chennai,Tamil Nadu,South,Standard
+C01075,Customer 1075,Wholesale,Delhi,Delhi,North,Silver
+C01076,Customer 1076,Retail,Hyderabad,Telangana,South,Standard
+C01077,Customer 1077,Retail,Delhi,Delhi,North,Standard
+C01078,Customer 1078,Wholesale,Pune,Maharashtra,West,Standard
+C01079,Customer 1079,Retail,Hyderabad,Telangana,South,Standard
+C01080,Customer 1080,Retail,Pune,Maharashtra,West,Standard
+C01081,Customer 1081,Retail,Hyderabad,Telangana,South,Gold
+C01082,Customer 1082,Wholesale,Bengaluru,Karnataka,South,Standard
+C01083,Customer 1083,Wholesale,Delhi,Delhi,North,Gold
+C01084,Customer 1084,Retail,Pune,Maharashtra,West,Standard
+C01085,Customer 1085,Retail,Hyderabad,Telangana,South,Standard
+C01086,Customer 1086,Corporate,Hyderabad,Telangana,South,Gold
+C01087,Customer 1087,Retail,Pune,Maharashtra,West,Standard
+C01088,Customer 1088,Retail,Bengaluru,Karnataka,South,Silver
+C01089,Customer 1089,Wholesale,Delhi,Delhi,North,Platinum
+C01090,Customer 1090,Wholesale,Bengaluru,Karnataka,South,Silver
+C01091,Customer 1091,Retail,Hyderabad,Telangana,South,Standard
+C01092,Customer 1092,Wholesale,Pune,Maharashtra,West,Standard
+C01093,Customer 1093,Retail,Delhi,Delhi,North,Standard
+C01094,Customer 1094,Retail,Kolkata,West Bengal,East,Platinum
+C01095,Customer 1095,Retail,Delhi,Delhi,North,Standard
+C01096,Customer 1096,Wholesale,Chennai,Tamil Nadu,South,Platinum
+C01097,Customer 1097,Corporate,Ahmedabad,Gujarat,West,Standard
+C01098,Customer 1098,Wholesale,Chennai,Tamil Nadu,South,Standard
+C01099,Customer 1099,Wholesale,Ahmedabad,Gujarat,West,Silver
+C01100,Customer 1100,Retail,Mumbai,Maharashtra,West,Gold
+C01101,Customer 1101,Retail,Mumbai,Maharashtra,West,Silver
+C01102,Customer 1102,Wholesale,Ahmedabad,Gujarat,West,Standard
+C01103,Customer 1103,Retail,Mumbai,Maharashtra,West,Gold
+C01104,Customer 1104,Retail,Kolkata,West Bengal,East,Standard
+C01105,Customer 1105,Retail,Kolkata,West Bengal,East,Gold
+C01106,Customer 1106,Corporate,Pune,Maharashtra,West,Standard
+C01107,Customer 1107,Retail,Bengaluru,Karnataka,South,Silver
+C01108,Customer 1108,Retail,Hyderabad,Telangana,South,Gold
+C01109,Customer 1109,Retail,Bengaluru,Karnataka,South,Silver
+C01110,Customer 1110,Wholesale,Kolkata,West Bengal,East,Silver
+C01111,Customer 1111,Retail,Bengaluru,Karnataka,South,Standard
+C01112,Customer 1112,Retail,Chennai,Tamil Nadu,South,Gold
+C01113,Customer 1113,Wholesale,Bengaluru,Karnataka,South,Silver
+C01114,Customer 1114,Corporate,Hyderabad,Telangana,South,Standard
+C01115,Customer 1115,Retail,Pune,Maharashtra,West,Standard
+C01116,Customer 1116,Retail,Bengaluru,Karnataka,South,Gold
+C01117,Customer 1117,Retail,Ahmedabad,Gujarat,West,Standard
+C01118,Customer 1118,Wholesale,Chennai,Tamil Nadu,South,Gold
+C01119,Customer 1119,Wholesale,Mumbai,Maharashtra,West,Silver
+C01120,Customer 1120,Wholesale,Delhi,Delhi,North,Standard
+C01121,Customer 1121,Wholesale,Ahmedabad,Gujarat,West,Standard
+C01122,Customer 1122,Wholesale,Pune,Maharashtra,West,Silver
+C01123,Customer 1123,Retail,Pune,Maharashtra,West,Silver
+C01124,Customer 1124,Corporate,Pune,Maharashtra,West,Standard
+C01125,Customer 1125,Retail,Bengaluru,Karnataka,South,Standard
+C01126,Customer 1126,Corporate,Hyderabad,Telangana,South,Silver
+C01127,Customer 1127,Retail,Chennai,Tamil Nadu,South,Platinum
+C01128,Customer 1128,Retail,Hyderabad,Telangana,South,Silver
+C01129,Customer 1129,Retail,Mumbai,Maharashtra,West,Silver
+C01130,Customer 1130,Retail,Hyderabad,Telangana,South,Silver
+C01131,Customer 1131,Wholesale,Hyderabad,Telangana,South,Gold
+C01132,Customer 1132,Wholesale,Hyderabad,Telangana,South,Standard
+C01133,Customer 1133,Corporate,Hyderabad,Telangana,South,Standard
+C01134,Customer 1134,Retail,Delhi,Delhi,North,Gold
+C01135,Customer 1135,Wholesale,Bengaluru,Karnataka,South,Gold
+C01136,Customer 1136,Retail,Chennai,Tamil Nadu,South,Silver
+C01137,Customer 1137,Retail,Ahmedabad,Gujarat,West,Gold
+C01138,Customer 1138,Retail,Pune,Maharashtra,West,Standard
+C01139,Customer 1139,Retail,Mumbai,Maharashtra,West,Gold
+C01140,Customer 1140,Retail,Kolkata,West Bengal,East,Silver
+C01141,Customer 1141,Wholesale,Pune,Maharashtra,West,Gold
+C01142,Customer 1142,Wholesale,Bengaluru,Karnataka,South,Platinum
+C01143,Customer 1143,Wholesale,Delhi,Delhi,North,Silver
+C01144,Customer 1144,Corporate,Delhi,Delhi,North,Silver
+C01145,Customer 1145,Retail,Chennai,Tamil Nadu,South,Silver
+C01146,Customer 1146,Wholesale,Ahmedabad,Gujarat,West,Standard
+C01147,Customer 1147,Corporate,Mumbai,Maharashtra,West,Standard
+C01148,Customer 1148,Retail,Chennai,Tamil Nadu,South,Standard
+C01149,Customer 1149,Wholesale,Bengaluru,Karnataka,South,Gold
+C01150,Customer 1150,Corporate,Mumbai,Maharashtra,West,Silver
+C01151,Customer 1151,Retail,Hyderabad,Telangana,South,Gold
+C01152,Customer 1152,Retail,Delhi,Delhi,North,Standard
+C01153,Customer 1153,Corporate,Bengaluru,Karnataka,South,Standard
+C01154,Customer 1154,Wholesale,Ahmedabad,Gujarat,West,Silver
+C01155,Customer 1155,Retail,Kolkata,West Bengal,East,Standard
+C01156,Customer 1156,Retail,Hyderabad,Telangana,South,Standard
+C01157,Customer 1157,Retail,Delhi,Delhi,North,Platinum
+C01158,Customer 1158,Wholesale,Pune,Maharashtra,West,Gold
+C01159,Customer 1159,Wholesale,Pune,Maharashtra,West,Gold
+C01160,Customer 1160,Retail,Bengaluru,Karnataka,South,Standard
+C01161,Customer 1161,Retail,Chennai,Tamil Nadu,South,Standard
+C01162,Customer 1162,Retail,Hyderabad,Telangana,South,Standard
+C01163,Customer 1163,Retail,Delhi,Delhi,North,Standard
+C01164,Customer 1164,Wholesale,Delhi,Delhi,North,Standard
+C01165,Customer 1165,Retail,Ahmedabad,Gujarat,West,Standard
+C01166,Customer 1166,Retail,Chennai,Tamil Nadu,South,Standard
+C01167,Customer 1167,Corporate,Hyderabad,Telangana,South,Gold
+C01168,Customer 1168,Retail,Hyderabad,Telangana,South,Standard
+C01169,Customer 1169,Wholesale,Kolkata,West Bengal,East,Gold
+C01170,Customer 1170,Retail,Mumbai,Maharashtra,West,Standard
+C01171,Customer 1171,Corporate,Delhi,Delhi,North,Gold
+C01172,Customer 1172,Retail,Mumbai,Maharashtra,West,Silver
+C01173,Customer 1173,Wholesale,Mumbai,Maharashtra,West,Gold
+C01174,Customer 1174,Retail,Chennai,Tamil Nadu,South,Standard
+C01175,Customer 1175,Retail,Mumbai,Maharashtra,West,Gold
+C01176,Customer 1176,Retail,Pune,Maharashtra,West,Gold
+C01177,Customer 1177,Retail,Delhi,Delhi,North,Standard
+C01178,Customer 1178,Retail,Hyderabad,Telangana,South,Standard
+C01179,Customer 1179,Retail,Bengaluru,Karnataka,South,Standard
+C01180,Customer 1180,Retail,Delhi,Delhi,North,Standard
+C01181,Customer 1181,Corporate,Kolkata,West Bengal,East,Standard
+C01182,Customer 1182,Wholesale,Kolkata,West Bengal,East,Gold
+C01183,Customer 1183,Retail,Kolkata,West Bengal,East,Standard
+C01184,Customer 1184,Retail,Ahmedabad,Gujarat,West,Gold
+C01185,Customer 1185,Retail,Kolkata,West Bengal,East,Standard
+C01186,Customer 1186,Wholesale,Delhi,Delhi,North,Gold
+C01187,Customer 1187,Wholesale,Mumbai,Maharashtra,West,Standard
+C01188,Customer 1188,Retail,Mumbai,Maharashtra,West,Silver
+C01189,Customer 1189,Corporate,Ahmedabad,Gujarat,West,Standard
+C01190,Customer 1190,Retail,Kolkata,West Bengal,East,Standard
+C01191,Customer 1191,Retail,Hyderabad,Telangana,South,Standard
+C01192,Customer 1192,Retail,Chennai,Tamil Nadu,South,Standard
+C01193,Customer 1193,Wholesale,Bengaluru,Karnataka,South,Standard
+C01194,Customer 1194,Wholesale,Hyderabad,Telangana,South,Gold
+C01195,Customer 1195,Retail,Mumbai,Maharashtra,West,Standard
+C01196,Customer 1196,Wholesale,Pune,Maharashtra,West,Silver
+C01197,Customer 1197,Retail,Hyderabad,Telangana,South,Silver
+C01198,Customer 1198,Retail,Chennai,Tamil Nadu,South,Silver
+C01199,Customer 1199,Retail,Kolkata,West Bengal,East,Gold
+C01200,Customer 1200,Retail,Bengaluru,Karnataka,South,Silver
+C01201,Customer 1201,Retail,Kolkata,West Bengal,East,Gold
+C01202,Customer 1202,Retail,Mumbai,Maharashtra,West,Standard
+C01203,Customer 1203,Wholesale,Ahmedabad,Gujarat,West,Silver
+C01204,Customer 1204,Retail,Ahmedabad,Gujarat,West,Standard
+C01205,Customer 1205,Retail,Hyderabad,Telangana,South,Standard
+C01206,Customer 1206,Wholesale,Delhi,Delhi,North,Standard
+C01207,Customer 1207,Retail,Pune,Maharashtra,West,Standard
+C01208,Customer 1208,Wholesale,Bengaluru,Karnataka,South,Gold
+C01209,Customer 1209,Retail,Ahmedabad,Gujarat,West,Silver
+C01210,Customer 1210,Retail,Bengaluru,Karnataka,South,Silver
+C01211,Customer 1211,Retail,Kolkata,West Bengal,East,Standard
+C01212,Customer 1212,Corporate,Ahmedabad,Gujarat,West,Standard
+C01213,Customer 1213,Retail,Ahmedabad,Gujarat,West,Silver
+C01214,Customer 1214,Corporate,Ahmedabad,Gujarat,West,Silver
+C01215,Customer 1215,Retail,Chennai,Tamil Nadu,South,Silver
+C01216,Customer 1216,Wholesale,Mumbai,Maharashtra,West,Standard
+C01217,Customer 1217,Wholesale,Pune,Maharashtra,West,Standard
+C01218,Customer 1218,Retail,Delhi,Delhi,North,Standard
+C01219,Customer 1219,Retail,Ahmedabad,Gujarat,West,Standard
+C01220,Customer 1220,Retail,Bengaluru,Karnataka,South,Standard
+C01221,Customer 1221,Retail,Kolkata,West Bengal,East,Platinum
+C01222,Customer 1222,Corporate,Delhi,Delhi,North,Silver
+C01223,Customer 1223,Corporate,Mumbai,Maharashtra,West,Standard
+C01224,Customer 1224,Wholesale,Ahmedabad,Gujarat,West,Standard
+C01225,Customer 1225,Retail,Chennai,Tamil Nadu,South,Standard
+C01226,Customer 1226,Retail,Delhi,Delhi,North,Platinum
+C01227,Customer 1227,Retail,Pune,Maharashtra,West,Standard
+C01228,Customer 1228,Retail,Hyderabad,Telangana,South,Gold
+C01229,Customer 1229,Retail,Pune,Maharashtra,West,Standard
+C01230,Customer 1230,Retail,Kolkata,West Bengal,East,Silver
+C01231,Customer 1231,Wholesale,Mumbai,Maharashtra,West,Standard
+C01232,Customer 1232,Wholesale,Kolkata,West Bengal,East,Standard
+C01233,Customer 1233,Retail,Mumbai,Maharashtra,West,Silver
+C01234,Customer 1234,Retail,Pune,Maharashtra,West,Platinum
+C01235,Customer 1235,Retail,Delhi,Delhi,North,Standard
+C01236,Customer 1236,Retail,Mumbai,Maharashtra,West,Silver
+C01237,Customer 1237,Wholesale,Ahmedabad,Gujarat,West,Standard
+C01238,Customer 1238,Wholesale,Pune,Maharashtra,West,Silver
+C01239,Customer 1239,Retail,Ahmedabad,Gujarat,West,Standard
+C01240,Customer 1240,Retail,Mumbai,Maharashtra,West,Gold
+C01241,Customer 1241,Wholesale,Kolkata,West Bengal,East,Standard
+C01242,Customer 1242,Wholesale,Ahmedabad,Gujarat,West,Gold
+C01243,Customer 1243,Wholesale,Chennai,Tamil Nadu,South,Standard
+C01244,Customer 1244,Retail,Hyderabad,Telangana,South,Standard
+C01245,Customer 1245,Corporate,Kolkata,West Bengal,East,Standard
+C01246,Customer 1246,Retail,Chennai,Tamil Nadu,South,Standard
+C01247,Customer 1247,Retail,Hyderabad,Telangana,South,Standard
+C01248,Customer 1248,Wholesale,Mumbai,Maharashtra,West,Standard
+C01249,Customer 1249,Retail,Delhi,Delhi,North,Gold
+C01250,Customer 1250,Wholesale,Kolkata,West Bengal,East,Standard
+C01251,Customer 1251,Corporate,Kolkata,West Bengal,East,Silver
+C01252,Customer 1252,Wholesale,Bengaluru,Karnataka,South,Standard
+C01253,Customer 1253,Retail,Pune,Maharashtra,West,Gold
+C01254,Customer 1254,Retail,Hyderabad,Telangana,South,Gold
+C01255,Customer 1255,Retail,Kolkata,West Bengal,East,Standard
+C01256,Customer 1256,Retail,Delhi,Delhi,North,Standard
+C01257,Customer 1257,Retail,Ahmedabad,Gujarat,West,Standard
+C01258,Customer 1258,Wholesale,Delhi,Delhi,North,Silver
+C01259,Customer 1259,Wholesale,Delhi,Delhi,North,Standard
+C01260,Customer 1260,Wholesale,Pune,Maharashtra,West,Standard
+C01261,Customer 1261,Retail,Ahmedabad,Gujarat,West,Silver
+C01262,Customer 1262,Wholesale,Hyderabad,Telangana,South,Standard
+C01263,Customer 1263,Wholesale,Delhi,Delhi,North,Standard
+C01264,Customer 1264,Wholesale,Kolkata,West Bengal,East,Standard
+C01265,Customer 1265,Retail,Delhi,Delhi,North,Standard
+C01266,Customer 1266,Retail,Ahmedabad,Gujarat,West,Standard
+C01267,Customer 1267,Retail,Delhi,Delhi,North,Standard
+C01268,Customer 1268,Retail,Delhi,Delhi,North,Gold
+C01269,Customer 1269,Retail,Delhi,Delhi,North,Standard
+C01270,Customer 1270,Retail,Kolkata,West Bengal,East,Gold
+C01271,Customer 1271,Wholesale,Chennai,Tamil Nadu,South,Gold
+C01272,Customer 1272,Retail,Delhi,Delhi,North,Silver
+C01273,Customer 1273,Retail,Mumbai,Maharashtra,West,Silver
+C01274,Customer 1274,Retail,Chennai,Tamil Nadu,South,Platinum
+C01275,Customer 1275,Wholesale,Kolkata,West Bengal,East,Gold
+C01276,Customer 1276,Wholesale,Hyderabad,Telangana,South,Gold
+C01277,Customer 1277,Retail,Bengaluru,Karnataka,South,Standard
+C01278,Customer 1278,Retail,Mumbai,Maharashtra,West,Gold
+C01279,Customer 1279,Retail,Delhi,Delhi,North,Standard
+C01280,Customer 1280,Retail,Mumbai,Maharashtra,West,Silver
+C01281,Customer 1281,Wholesale,Hyderabad,Telangana,South,Silver
+C01282,Customer 1282,Wholesale,Hyderabad,Telangana,South,Standard
+C01283,Customer 1283,Retail,Mumbai,Maharashtra,West,Standard
+C01284,Customer 1284,Wholesale,Delhi,Delhi,North,Silver
+C01285,Customer 1285,Corporate,Pune,Maharashtra,West,Standard
+C01286,Customer 1286,Wholesale,Chennai,Tamil Nadu,South,Platinum
+C01287,Customer 1287,Wholesale,Ahmedabad,Gujarat,West,Silver
+C01288,Customer 1288,Wholesale,Pune,Maharashtra,West,Silver
+C01289,Customer 1289,Retail,Delhi,Delhi,North,Gold
+C01290,Customer 1290,Retail,Delhi,Delhi,North,Platinum
+C01291,Customer 1291,Retail,Delhi,Delhi,North,Gold
+C01292,Customer 1292,Retail,Chennai,Tamil Nadu,South,Standard
+C01293,Customer 1293,Retail,Delhi,Delhi,North,Standard
+C01294,Customer 1294,Retail,Delhi,Delhi,North,Standard
+C01295,Customer 1295,Retail,Chennai,Tamil Nadu,South,Standard
+C01296,Customer 1296,Retail,Chennai,Tamil Nadu,South,Standard
+C01297,Customer 1297,Wholesale,Pune,Maharashtra,West,Standard
+C01298,Customer 1298,Retail,Pune,Maharashtra,West,Gold
+C01299,Customer 1299,Retail,Ahmedabad,Gujarat,West,Silver
+C01300,Customer 1300,Retail,Pune,Maharashtra,West,Gold
+C01301,Customer 1301,Corporate,Hyderabad,Telangana,South,Standard
+C01302,Customer 1302,Retail,Ahmedabad,Gujarat,West,Standard
+C01303,Customer 1303,Retail,Chennai,Tamil Nadu,South,Silver
+C01304,Customer 1304,Retail,Hyderabad,Telangana,South,Gold
+C01305,Customer 1305,Retail,Hyderabad,Telangana,South,Gold
+C01306,Customer 1306,Wholesale,Bengaluru,Karnataka,South,Standard
+C01307,Customer 1307,Retail,Delhi,Delhi,North,Standard
+C01308,Customer 1308,Retail,Pune,Maharashtra,West,Standard
+C01309,Customer 1309,Retail,Pune,Maharashtra,West,Silver
+C01310,Customer 1310,Wholesale,Pune,Maharashtra,West,Standard
+C01311,Customer 1311,Retail,Ahmedabad,Gujarat,West,Gold
+C01312,Customer 1312,Wholesale,Bengaluru,Karnataka,South,Silver
+C01313,Customer 1313,Retail,Kolkata,West Bengal,East,Silver
+C01314,Customer 1314,Retail,Mumbai,Maharashtra,West,Silver
+C01315,Customer 1315,Retail,Kolkata,West Bengal,East,Silver
+C01316,Customer 1316,Retail,Chennai,Tamil Nadu,South,Silver
+C01317,Customer 1317,Corporate,Ahmedabad,Gujarat,West,Gold
+C01318,Customer 1318,Corporate,Mumbai,Maharashtra,West,Silver
+C01319,Customer 1319,Wholesale,Hyderabad,Telangana,South,Standard
+C01320,Customer 1320,Retail,Delhi,Delhi,North,Silver
+C01321,Customer 1321,Retail,Pune,Maharashtra,West,Gold
+C01322,Customer 1322,Retail,Bengaluru,Karnataka,South,Silver
+C01323,Customer 1323,Retail,Hyderabad,Telangana,South,Gold
+C01324,Customer 1324,Retail,Pune,Maharashtra,West,Gold
+C01325,Customer 1325,Retail,Ahmedabad,Gujarat,West,Standard
+C01326,Customer 1326,Retail,Kolkata,West Bengal,East,Standard
+C01327,Customer 1327,Corporate,Mumbai,Maharashtra,West,Standard
+C01328,Customer 1328,Wholesale,Chennai,Tamil Nadu,South,Standard
+C01329,Customer 1329,Retail,Delhi,Delhi,North,Standard
+C01330,Customer 1330,Wholesale,Ahmedabad,Gujarat,West,Standard
+C01331,Customer 1331,Retail,Pune,Maharashtra,West,Silver
+C01332,Customer 1332,Retail,Kolkata,West Bengal,East,Silver
+C01333,Customer 1333,Retail,Pune,Maharashtra,West,Standard
+C01334,Customer 1334,Retail,Bengaluru,Karnataka,South,Standard
+C01335,Customer 1335,Retail,Chennai,Tamil Nadu,South,Silver
+C01336,Customer 1336,Retail,Ahmedabad,Gujarat,West,Standard
+C01337,Customer 1337,Retail,Chennai,Tamil Nadu,South,Standard
+C01338,Customer 1338,Retail,Pune,Maharashtra,West,Silver
+C01339,Customer 1339,Retail,Pune,Maharashtra,West,Silver
+C01340,Customer 1340,Retail,Ahmedabad,Gujarat,West,Standard
+C01341,Customer 1341,Retail,Ahmedabad,Gujarat,West,Silver
+C01342,Customer 1342,Retail,Delhi,Delhi,North,Standard
+C01343,Customer 1343,Retail,Kolkata,West Bengal,East,Gold
+C01344,Customer 1344,Retail,Ahmedabad,Gujarat,West,Platinum
+C01345,Customer 1345,Retail,Kolkata,West Bengal,East,Gold
+C01346,Customer 1346,Retail,Hyderabad,Telangana,South,Standard
+C01347,Customer 1347,Wholesale,Bengaluru,Karnataka,South,Silver
+C01348,Customer 1348,Wholesale,Ahmedabad,Gujarat,West,Gold
+C01349,Customer 1349,Wholesale,Ahmedabad,Gujarat,West,Standard
+C01350,Customer 1350,Retail,Kolkata,West Bengal,East,Silver
+C01351,Customer 1351,Retail,Delhi,Delhi,North,Standard
+C01352,Customer 1352,Retail,Kolkata,West Bengal,East,Silver
+C01353,Customer 1353,Retail,Delhi,Delhi,North,Silver
+C01354,Customer 1354,Wholesale,Kolkata,West Bengal,East,Platinum
+C01355,Customer 1355,Corporate,Bengaluru,Karnataka,South,Silver
+C01356,Customer 1356,Wholesale,Bengaluru,Karnataka,South,Standard
+C01357,Customer 1357,Wholesale,Mumbai,Maharashtra,West,Standard
+C01358,Customer 1358,Retail,Pune,Maharashtra,West,Silver
+C01359,Customer 1359,Retail,Kolkata,West Bengal,East,Standard
+C01360,Customer 1360,Retail,Pune,Maharashtra,West,Gold
+C01361,Customer 1361,Retail,Pune,Maharashtra,West,Standard
+C01362,Customer 1362,Retail,Ahmedabad,Gujarat,West,Silver
+C01363,Customer 1363,Retail,Hyderabad,Telangana,South,Standard
+C01364,Customer 1364,Retail,Kolkata,West Bengal,East,Standard
+C01365,Customer 1365,Wholesale,Hyderabad,Telangana,South,Silver
+C01366,Customer 1366,Retail,Kolkata,West Bengal,East,Gold
+C01367,Customer 1367,Wholesale,Hyderabad,Telangana,South,Gold
+C01368,Customer 1368,Retail,Hyderabad,Telangana,South,Gold
+C01369,Customer 1369,Wholesale,Kolkata,West Bengal,East,Standard
+C01370,Customer 1370,Retail,Hyderabad,Telangana,South,Standard
+C01371,Customer 1371,Retail,Bengaluru,Karnataka,South,Standard
+C01372,Customer 1372,Wholesale,Bengaluru,Karnataka,South,Silver
+C01373,Customer 1373,Corporate,Bengaluru,Karnataka,South,Platinum
+C01374,Customer 1374,Retail,Hyderabad,Telangana,South,Standard
+C01375,Customer 1375,Wholesale,Pune,Maharashtra,West,Standard
+C01376,Customer 1376,Wholesale,Delhi,Delhi,North,Standard
+C01377,Customer 1377,Wholesale,Ahmedabad,Gujarat,West,Silver
+C01378,Customer 1378,Wholesale,Hyderabad,Telangana,South,Standard
+C01379,Customer 1379,Retail,Delhi,Delhi,North,Standard
+C01380,Customer 1380,Retail,Chennai,Tamil Nadu,South,Silver
+C01381,Customer 1381,Wholesale,Ahmedabad,Gujarat,West,Standard
+C01382,Customer 1382,Retail,Pune,Maharashtra,West,Silver
+C01383,Customer 1383,Corporate,Hyderabad,Telangana,South,Standard
+C01384,Customer 1384,Retail,Bengaluru,Karnataka,South,Gold
+C01385,Customer 1385,Wholesale,Hyderabad,Telangana,South,Silver
+C01386,Customer 1386,Retail,Pune,Maharashtra,West,Silver
+C01387,Customer 1387,Corporate,Bengaluru,Karnataka,South,Standard
+C01388,Customer 1388,Retail,Ahmedabad,Gujarat,West,Gold
+C01389,Customer 1389,Retail,Chennai,Tamil Nadu,South,Standard
+C01390,Customer 1390,Retail,Pune,Maharashtra,West,Silver
+C01391,Customer 1391,Retail,Hyderabad,Telangana,South,Standard
+C01392,Customer 1392,Corporate,Chennai,Tamil Nadu,South,Standard
+C01393,Customer 1393,Retail,Delhi,Delhi,North,Standard
+C01394,Customer 1394,Corporate,Bengaluru,Karnataka,South,Gold
+C01395,Customer 1395,Retail,Hyderabad,Telangana,South,Standard
+C01396,Customer 1396,Retail,Mumbai,Maharashtra,West,Standard
+C01397,Customer 1397,Retail,Bengaluru,Karnataka,South,Silver
+C01398,Customer 1398,Retail,Bengaluru,Karnataka,South,Standard
+C01399,Customer 1399,Retail,Mumbai,Maharashtra,West,Standard
+C01400,Customer 1400,Retail,Mumbai,Maharashtra,West,Standard
+C01401,Customer 1401,Wholesale,Bengaluru,Karnataka,South,Gold
+C01402,Customer 1402,Retail,Chennai,Tamil Nadu,South,Standard
+C01403,Customer 1403,Wholesale,Kolkata,West Bengal,East,Standard
+C01404,Customer 1404,Retail,Delhi,Delhi,North,Standard
+C01405,Customer 1405,Retail,Delhi,Delhi,North,Standard
+C01406,Customer 1406,Retail,Pune,Maharashtra,West,Standard
+C01407,Customer 1407,Wholesale,Ahmedabad,Gujarat,West,Silver
+C01408,Customer 1408,Retail,Mumbai,Maharashtra,West,Standard
+C01409,Customer 1409,Retail,Delhi,Delhi,North,Standard
+C01410,Customer 1410,Retail,Kolkata,West Bengal,East,Gold
+C01411,Customer 1411,Corporate,Mumbai,Maharashtra,West,Silver
+C01412,Customer 1412,Retail,Kolkata,West Bengal,East,Standard
+C01413,Customer 1413,Wholesale,Pune,Maharashtra,West,Silver
+C01414,Customer 1414,Retail,Chennai,Tamil Nadu,South,Gold
+C01415,Customer 1415,Retail,Kolkata,West Bengal,East,Standard
+C01416,Customer 1416,Corporate,Hyderabad,Telangana,South,Gold
+C01417,Customer 1417,Corporate,Chennai,Tamil Nadu,South,Gold
+C01418,Customer 1418,Wholesale,Mumbai,Maharashtra,West,Gold
+C01419,Customer 1419,Wholesale,Mumbai,Maharashtra,West,Silver
+C01420,Customer 1420,Wholesale,Mumbai,Maharashtra,West,Standard
+C01421,Customer 1421,Corporate,Pune,Maharashtra,West,Standard
+C01422,Customer 1422,Corporate,Delhi,Delhi,North,Standard
+C01423,Customer 1423,Retail,Ahmedabad,Gujarat,West,Gold
+C01424,Customer 1424,Wholesale,Chennai,Tamil Nadu,South,Standard
+C01425,Customer 1425,Retail,Pune,Maharashtra,West,Standard
+C01426,Customer 1426,Corporate,Pune,Maharashtra,West,Silver
+C01427,Customer 1427,Wholesale,Ahmedabad,Gujarat,West,Platinum
+C01428,Customer 1428,Retail,Kolkata,West Bengal,East,Standard
+C01429,Customer 1429,Wholesale,Kolkata,West Bengal,East,Silver
+C01430,Customer 1430,Wholesale,Bengaluru,Karnataka,South,Standard
+C01431,Customer 1431,Wholesale,Chennai,Tamil Nadu,South,Platinum
+C01432,Customer 1432,Retail,Bengaluru,Karnataka,South,Standard
+C01433,Customer 1433,Retail,Ahmedabad,Gujarat,West,Standard
+C01434,Customer 1434,Retail,Hyderabad,Telangana,South,Silver
+C01435,Customer 1435,Retail,Delhi,Delhi,North,Standard
+C01436,Customer 1436,Corporate,Hyderabad,Telangana,South,Standard
+C01437,Customer 1437,Retail,Kolkata,West Bengal,East,Silver
+C01438,Customer 1438,Corporate,Hyderabad,Telangana,South,Standard
+C01439,Customer 1439,Retail,Hyderabad,Telangana,South,Silver
+C01440,Customer 1440,Corporate,Chennai,Tamil Nadu,South,Standard
+C01441,Customer 1441,Wholesale,Chennai,Tamil Nadu,South,Gold
+C01442,Customer 1442,Retail,Hyderabad,Telangana,South,Standard
+C01443,Customer 1443,Wholesale,Mumbai,Maharashtra,West,Silver
+C01444,Customer 1444,Wholesale,Hyderabad,Telangana,South,Gold
+C01445,Customer 1445,Retail,Chennai,Tamil Nadu,South,Standard
+C01446,Customer 1446,Corporate,Hyderabad,Telangana,South,Silver
+C01447,Customer 1447,Retail,Kolkata,West Bengal,East,Silver
+C01448,Customer 1448,Wholesale,Hyderabad,Telangana,South,Silver
+C01449,Customer 1449,Corporate,Kolkata,West Bengal,East,Gold
+C01450,Customer 1450,Wholesale,Chennai,Tamil Nadu,South,Silver
+C01451,Customer 1451,Corporate,Kolkata,West Bengal,East,Silver
+C01452,Customer 1452,Retail,Ahmedabad,Gujarat,West,Standard
+C01453,Customer 1453,Wholesale,Hyderabad,Telangana,South,Standard
+C01454,Customer 1454,Retail,Kolkata,West Bengal,East,Gold
+C01455,Customer 1455,Corporate,Mumbai,Maharashtra,West,Standard
+C01456,Customer 1456,Wholesale,Ahmedabad,Gujarat,West,Gold
+C01457,Customer 1457,Retail,Bengaluru,Karnataka,South,Platinum
+C01458,Customer 1458,Retail,Hyderabad,Telangana,South,Silver
+C01459,Customer 1459,Wholesale,Bengaluru,Karnataka,South,Standard
+C01460,Customer 1460,Wholesale,Delhi,Delhi,North,Standard
+C01461,Customer 1461,Retail,Pune,Maharashtra,West,Silver
+C01462,Customer 1462,Wholesale,Kolkata,West Bengal,East,Standard
+C01463,Customer 1463,Wholesale,Hyderabad,Telangana,South,Standard
+C01464,Customer 1464,Retail,Chennai,Tamil Nadu,South,Silver
+C01465,Customer 1465,Wholesale,Hyderabad,Telangana,South,Standard
+C01466,Customer 1466,Corporate,Ahmedabad,Gujarat,West,Silver
+C01467,Customer 1467,Retail,Bengaluru,Karnataka,South,Standard
+C01468,Customer 1468,Retail,Mumbai,Maharashtra,West,Silver
+C01469,Customer 1469,Wholesale,Bengaluru,Karnataka,South,Standard
+C01470,Customer 1470,Retail,Bengaluru,Karnataka,South,Standard
+C01471,Customer 1471,Wholesale,Bengaluru,Karnataka,South,Standard
+C01472,Customer 1472,Retail,Pune,Maharashtra,West,Standard
+C01473,Customer 1473,Retail,Pune,Maharashtra,West,Gold
+C01474,Customer 1474,Retail,Kolkata,West Bengal,East,Standard
+C01475,Customer 1475,Retail,Delhi,Delhi,North,Standard
+C01476,Customer 1476,Corporate,Delhi,Delhi,North,Standard
+C01477,Customer 1477,Retail,Bengaluru,Karnataka,South,Silver
+C01478,Customer 1478,Wholesale,Hyderabad,Telangana,South,Standard
+C01479,Customer 1479,Wholesale,Ahmedabad,Gujarat,West,Platinum
+C01480,Customer 1480,Wholesale,Ahmedabad,Gujarat,West,Gold
+C01481,Customer 1481,Retail,Chennai,Tamil Nadu,South,Standard
+C01482,Customer 1482,Wholesale,Pune,Maharashtra,West,Standard
+C01483,Customer 1483,Retail,Hyderabad,Telangana,South,Gold
+C01484,Customer 1484,Retail,Delhi,Delhi,North,Platinum
+C01485,Customer 1485,Retail,Kolkata,West Bengal,East,Gold
+C01486,Customer 1486,Wholesale,Chennai,Tamil Nadu,South,Gold
+C01487,Customer 1487,Retail,Hyderabad,Telangana,South,Gold
+C01488,Customer 1488,Retail,Ahmedabad,Gujarat,West,Silver
+C01489,Customer 1489,Retail,Delhi,Delhi,North,Silver
+C01490,Customer 1490,Wholesale,Mumbai,Maharashtra,West,Standard
+C01491,Customer 1491,Retail,Ahmedabad,Gujarat,West,Standard
+C01492,Customer 1492,Wholesale,Ahmedabad,Gujarat,West,Standard
+C01493,Customer 1493,Wholesale,Chennai,Tamil Nadu,South,Standard
+C01494,Customer 1494,Retail,Bengaluru,Karnataka,South,Gold
+C01495,Customer 1495,Wholesale,Hyderabad,Telangana,South,Gold
+C01496,Customer 1496,Retail,Bengaluru,Karnataka,South,Silver
+C01497,Customer 1497,Wholesale,Delhi,Delhi,North,Standard
+C01498,Customer 1498,Corporate,Bengaluru,Karnataka,South,Standard
+C01499,Customer 1499,Retail,Ahmedabad,Gujarat,West,Standard
+C01500,Customer 1500,Retail,Delhi,Delhi,North,Silver
