@@ -49,7 +49,7 @@ Provides a high-level overview of the entire supply chain operation.
 - Top 5 Suppliers by Performance
 - Sales by Region
 
-![Executive Overview](Dashboard/Images/Executive Overview.png)
+![Executive Overview](Dashboard/Images/Executive_Overview.png)
 
 ---
 
